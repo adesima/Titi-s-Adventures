@@ -51,5 +51,5 @@ Colectează toate lemnele din nivel pentru a reconstrui barajul și a trece la u
   - Tipuri diferite de inamici (rapid, puternic, ranged etc.)
 ### 🌲 Persoana 3 – World, Level Design & Item System
   - Crearea tilemap-urilor (pădure, obstacole, apă etc.)
-  - Scripturi pentru obiecte colectabile (lemne, ghinde, iteme magice)
+  - Scripturi pentru obiecte colectabile (lemne, ghinde, iteme magice) + implementare inventar
   - Mecanica de construcție a barajului (final de nivel)
