@@ -1,4 +1,4 @@
-# Titi's Adventures
+# 🦫 Titi's Adventures
 ## 🧩 Concept general
 „Titi's Adventures” este un joc 2D top-down adventure-platformer, cu elemente de collectathon, puzzle solving și light combat.
 Jucătorul controlează un castor care explorează o pădure plină de viață și pericole, colectând lemne pentru a construi un baraj la finalul fiecărui nivel. Pe parcurs, descoperă povestea locului, interacționează cu alte animale și trece prin provocări tot mai complexe.
