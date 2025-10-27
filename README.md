@@ -39,3 +39,17 @@ Colectează toate lemnele din nivel pentru a reconstrui barajul și a trece la u
 - Genre principal: Adventure 2D top-down
 - Sub-genres: Action, Puzzle, Collectathon
 - Style: Narrative + casual progression
+
+## 👥 Împărțirea sarcinilor — cu minimă dependență
+### 🧍 Persoana 1 – Player Controller & Interaction System
+  - Mișcarea jucătorului (walk, run, attack)
+  - Scripturi pentru interacțiuni (colectare, vorbit cu NPC, activare obiecte)
+  - Sistemul de viață al jucătorului
+### 🐾 Persoana 2 – Enemies & AI System
+  - Script pentru comportament inamici (patrulare, urmărire, atac)
+  - Sistem viață inamici + drop item la moarte
+  - Tipuri diferite de inamici (rapid, puternic, ranged etc.)
+### 🌲 Persoana 3 – World, Level Design & Item System
+  - Crearea tilemap-urilor (pădure, obstacole, apă etc.)
+  - Scripturi pentru obiecte colectabile (lemne, ghinde, iteme magice)
+  - Mecanica de construcție a barajului (final de nivel)
