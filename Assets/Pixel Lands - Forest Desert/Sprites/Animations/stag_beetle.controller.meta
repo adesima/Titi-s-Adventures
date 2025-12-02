@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cbb430d0bef752a46bf83af2fe520f92
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304532
+  packageName: Pixel Lands - Forest & Desert
+  packageVersion: 1.0.0
+  assetPath: Assets/Pixel Lands - Forest Desert/Sprites/Animations/stag_beetle.controller
+  uploadId: 717055

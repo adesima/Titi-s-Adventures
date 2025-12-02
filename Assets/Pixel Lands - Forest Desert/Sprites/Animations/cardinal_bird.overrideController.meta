@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e3bf90ebc0df6349957915d63ff237b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304532
+  packageName: Pixel Lands - Forest & Desert
+  packageVersion: 1.0.0
+  assetPath: Assets/Pixel Lands - Forest Desert/Sprites/Animations/cardinal_bird.overrideController
+  uploadId: 717055

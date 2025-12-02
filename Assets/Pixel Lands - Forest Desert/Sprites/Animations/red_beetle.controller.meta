@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7ff59e3a0d2527d46acbb6b8c98e4855
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304532
+  packageName: Pixel Lands - Forest & Desert
+  packageVersion: 1.0.0
+  assetPath: Assets/Pixel Lands - Forest Desert/Sprites/Animations/red_beetle.controller
+  uploadId: 717055

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f04fdb578099da4499011b62445d0185
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304532
+  packageName: Pixel Lands - Forest & Desert
+  packageVersion: 1.0.0
+  assetPath: Assets/Pixel Lands - Forest Desert/Sprites/Animations/blue_snake.controller
+  uploadId: 717055
