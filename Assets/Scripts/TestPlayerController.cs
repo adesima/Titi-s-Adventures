@@ -2,7 +2,7 @@
 
 public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed = 5f; // Viteza de mișcare
+    [SerializeField] private float moveSpeed = 5f; // Viteza de mișcare
     public Rigidbody2D rb;       // Referință la Rigidbody
 
     Vector2 movement;            // Stochează direcția X și Y
