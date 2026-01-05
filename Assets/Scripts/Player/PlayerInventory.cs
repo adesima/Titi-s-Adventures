@@ -34,4 +34,9 @@ public class PlayerInventory : MonoBehaviour
             Debug.LogWarning("Nu ai asignat Text-ul in Inspector la PlayerInventory!");
         }
     }
+
+    public int GetWoodCount()
+    {
+        return woodCount;
+    }
 }

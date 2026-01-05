@@ -53,6 +53,7 @@
     <Compile Include="Assets\Scripts\Enemies\Projectile.cs" />
     <Compile Include="Assets\Scripts\Enemies\MeleeEnemy.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyHealth.cs" />
+    <Compile Include="Assets\Scripts\Items\DamController.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyBase.cs" />
     <Compile Include="Assets\Andreea\UIManager.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerInventory.cs" />
