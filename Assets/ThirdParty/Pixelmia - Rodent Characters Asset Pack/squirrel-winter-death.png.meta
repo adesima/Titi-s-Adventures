@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 34aa44d7b21ee4741b67c217473064fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4340511726065369704
+    second: squirrel-winter-death_0
+  - first:
+      213: 8439654578653745431
+    second: squirrel-winter-death_1
+  - first:
+      213: 7708050950885999018
+    second: squirrel-winter-death_2
+  - first:
+      213: -4213126583890789090
+    second: squirrel-winter-death_3
+  - first:
+      213: -4262041866037698159
+    second: squirrel-winter-death_4
+  - first:
+      213: 4084878641559625466
+    second: squirrel-winter-death_5
+  - first:
+      213: 5570305553898461079
+    second: squirrel-winter-death_6
+  - first:
+      213: 1531033860306210321
+    second: squirrel-winter-death_7
+  - first:
+      213: 3048439966678143650
+    second: squirrel-winter-death_8
+  - first:
+      213: 3320895633729702627
+    second: squirrel-winter-death_9
+  - first:
+      213: 7682868168754996333
+    second: squirrel-winter-death_10
+  - first:
+      213: 6797992159252924983
+    second: squirrel-winter-death_11
+  - first:
+      213: 2867618554947581718
+    second: squirrel-winter-death_12
+  - first:
+      213: -8551076571596568884
+    second: squirrel-winter-death_13
+  - first:
+      213: -6593862679651895046
+    second: squirrel-winter-death_14
+  - first:
+      213: 2085716494177703322
+    second: squirrel-winter-death_15
+  - first:
+      213: -2882426754478491287
+    second: squirrel-winter-death_16
+  - first:
+      213: -3661528145239779731
+    second: squirrel-winter-death_17
+  - first:
+      213: 259288158969242043
+    second: squirrel-winter-death_18
+  - first:
+      213: 4454212006529374368
+    second: squirrel-winter-death_19
+  - first:
+      213: 8419980840967962533
+    second: squirrel-winter-death_20
+  - first:
+      213: -1395653786420750185
+    second: squirrel-winter-death_21
+  - first:
+      213: 9094216994938749891
+    second: squirrel-winter-death_22
+  - first:
+      213: 1730410065000323694
+    second: squirrel-winter-death_23
+  - first:
+      213: 8823030870747682594
+    second: squirrel-winter-death_24
+  - first:
+      213: -7214136773535610902
+    second: squirrel-winter-death_25
+  - first:
+      213: 7742851984299123353
+    second: squirrel-winter-death_26
+  - first:
+      213: -1596462484586569733
+    second: squirrel-winter-death_27
+  - first:
+      213: 8394539335336410401
+    second: squirrel-winter-death_28
+  - first:
+      213: -7287783433065361929
+    second: squirrel-winter-death_29
+  - first:
+      213: 4274547961977155043
+    second: squirrel-winter-death_30
+  - first:
+      213: 9051611880174842966
+    second: squirrel-winter-death_31
+  - first:
+      213: 8194776002117730598
+    second: squirrel-winter-death_32
+  - first:
+      213: 2038016997362527100
+    second: squirrel-winter-death_33
+  - first:
+      213: -5553337264794977016
+    second: squirrel-winter-death_34
+  - first:
+      213: -7498192527360180171
+    second: squirrel-winter-death_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squirrel-winter-death_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8624b87fa689c3c30800000000000000
+      internalID: 4340511726065369704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 95
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711d7a3cf1daf1570800000000000000
+      internalID: 8439654578653745431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 95
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa10c26308f78fa60800000000000000
+      internalID: 7708050950885999018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 95
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d3f6da1b7f785c0800000000000000
+      internalID: -4213126583890789090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 95
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191eafc018f2ad4c0800000000000000
+      internalID: -4262041866037698159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 95
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeddbc5b7760b830800000000000000
+      internalID: 4084878641559625466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 95
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797d0867363bd4d40800000000000000
+      internalID: 5570305553898461079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 95
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e85a62f235f3510800000000000000
+      internalID: 1531033860306210321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 95
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a254f49ffb3e4a20800000000000000
+      internalID: 3048439966678143650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaca98ebf0361e20800000000000000
+      internalID: 3320895633729702627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 63
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d642cc6d4e70f9a60800000000000000
+      internalID: 7682868168754996333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a492ef9d1575e50800000000000000
+      internalID: 6797992159252924983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 63
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61738f6e1e3dbc720800000000000000
+      internalID: 2867618554947581718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 63
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc642d6e929745980800000000000000
+      internalID: -8551076571596568884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 63
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8b4a124d4ed74a0800000000000000
+      internalID: -6593862679651895046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 63
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9592a1d914f1fc10800000000000000
+      internalID: 2085716494177703322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 63
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9693a3873209ff7d0800000000000000
+      internalID: -2882426754478491287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 63
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6653ef2d83af2dc0800000000000000
+      internalID: -3661528145239779731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1a3d1f43d299300800000000000000
+      internalID: 259288158969242043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a89673783a80dd30800000000000000
+      internalID: 4454212006529374368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 31
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af7d71c6f7c9d470800000000000000
+      internalID: 8419980840967962533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 31
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79856f69644a1ace0800000000000000
+      internalID: -1395653786420750185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 31
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c305a57c26253e70800000000000000
+      internalID: 9094216994938749891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 31
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ada1839c6a30810800000000000000
+      internalID: 1730410065000323694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227983d94d3b17a70800000000000000
+      internalID: 8823030870747682594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 31
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7c35c93dc32eb90800000000000000
+      internalID: -7214136773535610902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 31
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992e3983bd2247b60800000000000000
+      internalID: 7742851984299123353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffdaf424d938d9e0800000000000000
+      internalID: -1596462484586569733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d35cf9c056f7470800000000000000
+      internalID: 8394539335336410401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd892874979cda90800000000000000
+      internalID: -7287783433065361929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eda40159be325b30800000000000000
+      internalID: 4274547961977155043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654f68a2c09cd9d70800000000000000
+      internalID: 9051611880174842966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_32
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6218f1c2b51b9b170800000000000000
+      internalID: 8194776002117730598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b600649ad784c10800000000000000
+      internalID: 2038016997362527100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_34
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80db4f53e259ee2b0800000000000000
+      internalID: -5553337264794977016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-death_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530453d9f9111f790800000000000000
+      internalID: -7498192527360180171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      squirrel-winter-death_0: 4340511726065369704
+      squirrel-winter-death_1: 8439654578653745431
+      squirrel-winter-death_10: 7682868168754996333
+      squirrel-winter-death_11: 6797992159252924983
+      squirrel-winter-death_12: 2867618554947581718
+      squirrel-winter-death_13: -8551076571596568884
+      squirrel-winter-death_14: -6593862679651895046
+      squirrel-winter-death_15: 2085716494177703322
+      squirrel-winter-death_16: -2882426754478491287
+      squirrel-winter-death_17: -3661528145239779731
+      squirrel-winter-death_18: 259288158969242043
+      squirrel-winter-death_19: 4454212006529374368
+      squirrel-winter-death_2: 7708050950885999018
+      squirrel-winter-death_20: 8419980840967962533
+      squirrel-winter-death_21: -1395653786420750185
+      squirrel-winter-death_22: 9094216994938749891
+      squirrel-winter-death_23: 1730410065000323694
+      squirrel-winter-death_24: 8823030870747682594
+      squirrel-winter-death_25: -7214136773535610902
+      squirrel-winter-death_26: 7742851984299123353
+      squirrel-winter-death_27: -1596462484586569733
+      squirrel-winter-death_28: 8394539335336410401
+      squirrel-winter-death_29: -7287783433065361929
+      squirrel-winter-death_3: -4213126583890789090
+      squirrel-winter-death_30: 4274547961977155043
+      squirrel-winter-death_31: 9051611880174842966
+      squirrel-winter-death_32: 8194776002117730598
+      squirrel-winter-death_33: 2038016997362527100
+      squirrel-winter-death_34: -5553337264794977016
+      squirrel-winter-death_35: -7498192527360180171
+      squirrel-winter-death_4: -4262041866037698159
+      squirrel-winter-death_5: 4084878641559625466
+      squirrel-winter-death_6: 5570305553898461079
+      squirrel-winter-death_7: 1531033860306210321
+      squirrel-winter-death_8: 3048439966678143650
+      squirrel-winter-death_9: 3320895633729702627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

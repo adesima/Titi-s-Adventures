@@ -1,0 +1,22 @@
+:root {
+}
+
+.unity-progress-bar__background {
+    
+    background-color: red;
+    background-image: none;
+   
+    border-color: red;
+    color: red;
+    style-color:red;
+    
+    
+    
+}
+.unity-progress-bar__progress {
+    width: 100%;
+    background-color: green;
+    border-radius: inherit;
+
+}
+

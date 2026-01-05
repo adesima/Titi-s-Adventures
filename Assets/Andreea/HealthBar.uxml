@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/USS.uss?fileID=7433441132597879392&amp;guid=2f4d4192221e1354d80e6be664198117&amp;type=3#USS" />
+    <ui:VisualElement name="Root" style="flex-grow: 1;">
+        <ui:ProgressBar value="22" name="viata" style="min-width: 30%; align-self: center; justify-content: space-evenly; align-items: stretch; bottom: 10px; top: auto; left: 10px; right: auto; position: absolute;" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 312d6811f8638114594205cda9073fec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8766258269678017099
+    second: rat-black-jump_0
+  - first:
+      213: -3581486617706052453
+    second: rat-black-jump_1
+  - first:
+      213: 4017873373012134945
+    second: rat-black-jump_2
+  - first:
+      213: -960310558896404107
+    second: rat-black-jump_3
+  - first:
+      213: 6544369994409149937
+    second: rat-black-jump_4
+  - first:
+      213: 7327450175905944350
+    second: rat-black-jump_5
+  - first:
+      213: -688708678788840501
+    second: rat-black-jump_6
+  - first:
+      213: -4295580564171936265
+    second: rat-black-jump_7
+  - first:
+      213: -1672616798958964356
+    second: rat-black-jump_8
+  - first:
+      213: 6157138561736739580
+    second: rat-black-jump_9
+  - first:
+      213: 8041636292339127317
+    second: rat-black-jump_10
+  - first:
+      213: -2107122090906563420
+    second: rat-black-jump_11
+  - first:
+      213: 1388144264242988092
+    second: rat-black-jump_12
+  - first:
+      213: 7440604416085848435
+    second: rat-black-jump_13
+  - first:
+      213: -1911613474766228751
+    second: rat-black-jump_14
+  - first:
+      213: -1477557856855575910
+    second: rat-black-jump_15
+  - first:
+      213: -4414495454598554977
+    second: rat-black-jump_16
+  - first:
+      213: 2262782691884798817
+    second: rat-black-jump_17
+  - first:
+      213: -8171440398500573096
+    second: rat-black-jump_18
+  - first:
+      213: 1126753871072451561
+    second: rat-black-jump_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rat-black-jump_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5e282ac8ef75680800000000000000
+      internalID: -8766258269678017099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 97
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94c0df85e00c4ec0800000000000000
+      internalID: -3581486617706052453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 65
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c83ee8b8a52c730800000000000000
+      internalID: 4017873373012134945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 97
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5794ce672aa4ca2f0800000000000000
+      internalID: -960310558896404107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f58b7b16d542da50800000000000000
+      internalID: 6544369994409149937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 95
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e135f3ccc1550b560800000000000000
+      internalID: 7327450175905944350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc300170b173176f0800000000000000
+      internalID: -688708678788840501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 34
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fda5706c380364c0800000000000000
+      internalID: -4295580564171936265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7133bc12eba9c8e0800000000000000
+      internalID: -1672616798958964356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa8d2566ec827550800000000000000
+      internalID: 6157138561736739580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 63
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51453c9f991a99f60800000000000000
+      internalID: 8041636292339127317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 31
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acc2215f9ff1c2e0800000000000000
+      internalID: -2107122090906563420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3403378adda34310800000000000000
+      internalID: 1388144264242988092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 33
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371fffe5b46524760800000000000000
+      internalID: 7440604416085848435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f275b04ca59875e0800000000000000
+      internalID: -1911613474766228751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 31
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92390725f8ae7be0800000000000000
+      internalID: -1477557856855575910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a9316e5cf8cb2c0800000000000000
+      internalID: -4414495454598554977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16312b99ed4076f10800000000000000
+      internalID: 2262782691884798817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850d8107046399e80800000000000000
+      internalID: -8171440398500573096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-jump_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebd19a0da803af00800000000000000
+      internalID: 1126753871072451561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rat-black-jump_0: -8766258269678017099
+      rat-black-jump_1: -3581486617706052453
+      rat-black-jump_10: 8041636292339127317
+      rat-black-jump_11: -2107122090906563420
+      rat-black-jump_12: 1388144264242988092
+      rat-black-jump_13: 7440604416085848435
+      rat-black-jump_14: -1911613474766228751
+      rat-black-jump_15: -1477557856855575910
+      rat-black-jump_16: -4414495454598554977
+      rat-black-jump_17: 2262782691884798817
+      rat-black-jump_18: -8171440398500573096
+      rat-black-jump_19: 1126753871072451561
+      rat-black-jump_2: 4017873373012134945
+      rat-black-jump_3: -960310558896404107
+      rat-black-jump_4: 6544369994409149937
+      rat-black-jump_5: 7327450175905944350
+      rat-black-jump_6: -688708678788840501
+      rat-black-jump_7: -4295580564171936265
+      rat-black-jump_8: -1672616798958964356
+      rat-black-jump_9: 6157138561736739580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 658bccfc2577fa04ca5bcd2fb93e06a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6612481371137131328
+    second: squirrel-idle_0
+  - first:
+      213: -6807928354101224453
+    second: squirrel-idle_1
+  - first:
+      213: -6399567798768808860
+    second: squirrel-idle_2
+  - first:
+      213: -5492059345855334544
+    second: squirrel-idle_3
+  - first:
+      213: 1992608289715530749
+    second: squirrel-idle_4
+  - first:
+      213: -367713193720278592
+    second: squirrel-idle_5
+  - first:
+      213: -4701132049493423110
+    second: squirrel-idle_6
+  - first:
+      213: 2156561244231973689
+    second: squirrel-idle_7
+  - first:
+      213: 4860586875178987516
+    second: squirrel-idle_8
+  - first:
+      213: -7539944796592624862
+    second: squirrel-idle_9
+  - first:
+      213: -8486829219006348397
+    second: squirrel-idle_10
+  - first:
+      213: 7943095690641611818
+    second: squirrel-idle_11
+  - first:
+      213: 6215067578632645955
+    second: squirrel-idle_12
+  - first:
+      213: -5762625238343180787
+    second: squirrel-idle_13
+  - first:
+      213: 445418586743687534
+    second: squirrel-idle_14
+  - first:
+      213: 7814745737517946664
+    second: squirrel-idle_15
+  - first:
+      213: 8834094810637953961
+    second: squirrel-idle_16
+  - first:
+      213: -4583345457808626245
+    second: squirrel-idle_17
+  - first:
+      213: 3934545735326434804
+    second: squirrel-idle_18
+  - first:
+      213: 905019574681146315
+    second: squirrel-idle_19
+  - first:
+      213: -7751551226420200376
+    second: squirrel-idle_20
+  - first:
+      213: 587600424758685468
+    second: squirrel-idle_21
+  - first:
+      213: 2370149148820968786
+    second: squirrel-idle_22
+  - first:
+      213: -4177833809136399669
+    second: squirrel-idle_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squirrel-idle_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccbb753a3fbb34a0800000000000000
+      internalID: -6612481371137131328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 95
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb9c7d5b316581a0800000000000000
+      internalID: -6807928354101224453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 95
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c4b5e4efa2037a0800000000000000
+      internalID: -6399567798768808860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 95
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077bde48f1948c3b0800000000000000
+      internalID: -5492059345855334544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 95
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb2ef4aeaa27ab10800000000000000
+      internalID: 1992608289715530749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 95
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1141d6cce95eaf0800000000000000
+      internalID: -367713193720278592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb8db30f4932ceb0800000000000000
+      internalID: -4701132049493423110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 63
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b32d29605aded10800000000000000
+      internalID: 2156561244231973689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff28fea206447340800000000000000
+      internalID: 4860586875178987516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 63
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22baa05e72cbc5790800000000000000
+      internalID: -7539944796592624862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 63
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39388bb5ac9b83a80800000000000000
+      internalID: -8486829219006348397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 63
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c11a1427b8b3e60800000000000000
+      internalID: 7943095690641611818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d227fa80b504650800000000000000
+      internalID: 6215067578632645955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 31
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e9ade90ea0700b0800000000000000
+      internalID: -5762625238343180787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 31
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69c63f38d17e2600800000000000000
+      internalID: 445418586743687534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 31
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82751ce08dd837c60800000000000000
+      internalID: 7814745737517946664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 31
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab623cdc62099a70800000000000000
+      internalID: 8834094810637953961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_17
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 31
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdaa68f69fa460c0800000000000000
+      internalID: -4583345457808626245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f509aa00805a9630800000000000000
+      internalID: 3934545735326434804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc315a712864f8c00800000000000000
+      internalID: 905019574681146315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cfaf2aa35fc6490800000000000000
+      internalID: -7751551226420200376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f2c9b1973972800800000000000000
+      internalID: 587600424758685468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2551b20e71674e020800000000000000
+      internalID: 2370149148820968786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-idle_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcacec3294a5506c0800000000000000
+      internalID: -4177833809136399669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      squirrel-idle_0: -6612481371137131328
+      squirrel-idle_1: -6807928354101224453
+      squirrel-idle_10: -8486829219006348397
+      squirrel-idle_11: 7943095690641611818
+      squirrel-idle_12: 6215067578632645955
+      squirrel-idle_13: -5762625238343180787
+      squirrel-idle_14: 445418586743687534
+      squirrel-idle_15: 7814745737517946664
+      squirrel-idle_16: 8834094810637953961
+      squirrel-idle_17: -4583345457808626245
+      squirrel-idle_18: 3934545735326434804
+      squirrel-idle_19: 905019574681146315
+      squirrel-idle_2: -6399567798768808860
+      squirrel-idle_20: -7751551226420200376
+      squirrel-idle_21: 587600424758685468
+      squirrel-idle_22: 2370149148820968786
+      squirrel-idle_23: -4177833809136399669
+      squirrel-idle_3: -5492059345855334544
+      squirrel-idle_4: 1992608289715530749
+      squirrel-idle_5: -367713193720278592
+      squirrel-idle_6: -4701132049493423110
+      squirrel-idle_7: 2156561244231973689
+      squirrel-idle_8: 4860586875178987516
+      squirrel-idle_9: -7539944796592624862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

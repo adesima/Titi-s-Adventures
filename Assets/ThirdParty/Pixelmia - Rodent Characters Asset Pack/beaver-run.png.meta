@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 13c4f387cd6d23e4dac064cae2e1c830
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7674795891439407061
+    second: beaver-run_0
+  - first:
+      213: 697354482037405305
+    second: beaver-run_1
+  - first:
+      213: -2284313279497681188
+    second: beaver-run_2
+  - first:
+      213: -6866307787433209307
+    second: beaver-run_3
+  - first:
+      213: -1066364916750351270
+    second: beaver-run_4
+  - first:
+      213: -8772902149969448101
+    second: beaver-run_5
+  - first:
+      213: 3183531768597493701
+    second: beaver-run_6
+  - first:
+      213: 3406382115410425026
+    second: beaver-run_7
+  - first:
+      213: -9020281751400399499
+    second: beaver-run_8
+  - first:
+      213: 1743633056446208307
+    second: beaver-run_9
+  - first:
+      213: 7227166350542632762
+    second: beaver-run_10
+  - first:
+      213: -701262912043605992
+    second: beaver-run_11
+  - first:
+      213: -6006442727631600566
+    second: beaver-run_12
+  - first:
+      213: 406484068570226798
+    second: beaver-run_13
+  - first:
+      213: -5035985106062079221
+    second: beaver-run_14
+  - first:
+      213: 6825402250208814445
+    second: beaver-run_15
+  - first:
+      213: -6316280237578278998
+    second: beaver-run_16
+  - first:
+      213: 523733126144378107
+    second: beaver-run_17
+  - first:
+      213: 4064044239183967829
+    second: beaver-run_18
+  - first:
+      213: -1704002727734812422
+    second: beaver-run_19
+  - first:
+      213: -2921992984693573001
+    second: beaver-run_20
+  - first:
+      213: 8286650242274659235
+    second: beaver-run_21
+  - first:
+      213: 4561759358160191879
+    second: beaver-run_22
+  - first:
+      213: -3062252672975874584
+    second: beaver-run_23
+  - first:
+      213: 801022459937177229
+    second: beaver-run_24
+  - first:
+      213: -4325958717024811049
+    second: beaver-run_25
+  - first:
+      213: -5523144208772480947
+    second: beaver-run_26
+  - first:
+      213: -5550662837752539724
+    second: beaver-run_27
+  - first:
+      213: -3653446487591899600
+    second: beaver-run_28
+  - first:
+      213: 1988100362637010018
+    second: beaver-run_29
+  - first:
+      213: 5379325038678733802
+    second: beaver-run_30
+  - first:
+      213: 844366158370983852
+    second: beaver-run_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beaver-run_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 113
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df8fd0533a528a60800000000000000
+      internalID: 7674795891439407061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 113
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976bd58e4308da900800000000000000
+      internalID: 697354482037405305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 114
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd645d3dc2d7c40e0800000000000000
+      internalID: -2284313279497681188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 113
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5229b835279f5b0a0800000000000000
+      internalID: -6866307787433209307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 113
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54082012c28331f0800000000000000
+      internalID: -1066364916750351270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 113
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b537fc5b9f3604680800000000000000
+      internalID: -8772902149969448101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 114
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7bc66c64d2e2c20800000000000000
+      internalID: 3183531768597493701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 113
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c438467c76e54f20800000000000000
+      internalID: 3406382115410425026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d37d1e98581d280800000000000000
+      internalID: -9020281751400399499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 75
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339da14d601a23810800000000000000
+      internalID: 1743633056446208307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 76
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37ffb0318d0c4460800000000000000
+      internalID: 7227166350542632762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 75
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8102c71d81d9446f0800000000000000
+      internalID: -701262912043605992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 75
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a444ac7a924d4aca0800000000000000
+      internalID: -6006442727631600566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 75
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60ebf15b1f14a500800000000000000
+      internalID: 406484068570226798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 76
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b03035a369c1ab0800000000000000
+      internalID: -5035985106062079221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 75
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6529dc1f23b8be50800000000000000
+      internalID: 6825402250208814445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7a359c6901858a0800000000000000
+      internalID: -6316280237578278998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4c0fcd08ca44700800000000000000
+      internalID: 523733126144378107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556780c04b2666830800000000000000
+      internalID: 4064044239183967829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 37
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0e11d1c8a2a58e0800000000000000
+      internalID: -1704002727734812422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 37
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77af72f9cdef277d0800000000000000
+      internalID: -2921992984693573001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 37
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab8fa4ad78100370800000000000000
+      internalID: 8286650242274659235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 38
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781c3fd87ff9e4f30800000000000000
+      internalID: 4561759358160191879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 37
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e558ce1b61b085d0800000000000000
+      internalID: -3062252672975874584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e3aadeeadcd1b00800000000000000
+      internalID: 801022459937177229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d74bbe777b17f3c0800000000000000
+      internalID: -4325958717024811049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d404cd0ea99d953b0800000000000000
+      internalID: -5523144208772480947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b55cc7ce8518f2b0800000000000000
+      internalID: -5550662837752539724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eaf2db6c95c4dc0800000000000000
+      internalID: -3653446487591899600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_29
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264edc41fb6279b10800000000000000
+      internalID: 1988100362637010018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_30
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae37fcd2f9337aa40800000000000000
+      internalID: 5379325038678733802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-run_31
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf40122c8ac7bb00800000000000000
+      internalID: 844366158370983852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      beaver-run_0: 7674795891439407061
+      beaver-run_1: 697354482037405305
+      beaver-run_10: 7227166350542632762
+      beaver-run_11: -701262912043605992
+      beaver-run_12: -6006442727631600566
+      beaver-run_13: 406484068570226798
+      beaver-run_14: -5035985106062079221
+      beaver-run_15: 6825402250208814445
+      beaver-run_16: -6316280237578278998
+      beaver-run_17: 523733126144378107
+      beaver-run_18: 4064044239183967829
+      beaver-run_19: -1704002727734812422
+      beaver-run_2: -2284313279497681188
+      beaver-run_20: -2921992984693573001
+      beaver-run_21: 8286650242274659235
+      beaver-run_22: 4561759358160191879
+      beaver-run_23: -3062252672975874584
+      beaver-run_24: 801022459937177229
+      beaver-run_25: -4325958717024811049
+      beaver-run_26: -5523144208772480947
+      beaver-run_27: -5550662837752539724
+      beaver-run_28: -3653446487591899600
+      beaver-run_29: 1988100362637010018
+      beaver-run_3: -6866307787433209307
+      beaver-run_30: 5379325038678733802
+      beaver-run_31: 844366158370983852
+      beaver-run_4: -1066364916750351270
+      beaver-run_5: -8772902149969448101
+      beaver-run_6: 3183531768597493701
+      beaver-run_7: 3406382115410425026
+      beaver-run_8: -9020281751400399499
+      beaver-run_9: 1743633056446208307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

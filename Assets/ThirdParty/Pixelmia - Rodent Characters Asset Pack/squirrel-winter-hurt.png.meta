@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: b703f3b1bd21e6d43a7bb70422c056c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -934361965689207013
+    second: squirrel-winter-hurt_0
+  - first:
+      213: 849620871614395620
+    second: squirrel-winter-hurt_1
+  - first:
+      213: 6708094643586876694
+    second: squirrel-winter-hurt_2
+  - first:
+      213: 7719293251118512447
+    second: squirrel-winter-hurt_3
+  - first:
+      213: -8063749725533219162
+    second: squirrel-winter-hurt_4
+  - first:
+      213: -6162721065040355433
+    second: squirrel-winter-hurt_5
+  - first:
+      213: 7664074974573078635
+    second: squirrel-winter-hurt_6
+  - first:
+      213: 6485487847008262879
+    second: squirrel-winter-hurt_7
+  - first:
+      213: 283046353677697934
+    second: squirrel-winter-hurt_8
+  - first:
+      213: -8394335653203284880
+    second: squirrel-winter-hurt_9
+  - first:
+      213: -8633239892777732730
+    second: squirrel-winter-hurt_10
+  - first:
+      213: -8762384105152072744
+    second: squirrel-winter-hurt_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squirrel-winter-hurt_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17857f1eba7803f0800000000000000
+      internalID: -934361965689207013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-hurt_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 95
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e475566ea57acb00800000000000000
+      internalID: 849620871614395620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-hurt_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 95
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61542be8980f71d50800000000000000
+      internalID: 6708094643586876694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-hurt_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f393df53050702b60800000000000000
+      internalID: 7719293251118512447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-hurt_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 63
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a650f3295ec71090800000000000000
+      internalID: -8063749725533219162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-hurt_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fd374c7dd997aa0800000000000000
+      internalID: -6162721065040355433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-hurt_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68a36755934c5a60800000000000000
+      internalID: 7664074974573078635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-hurt_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda5a04d5d4110a50800000000000000
+      internalID: 6485487847008262879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-hurt_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 31
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83cde5b8259de300800000000000000
+      internalID: 283046353677697934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-hurt_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ceb61d234518b80800000000000000
+      internalID: -8394335653203284880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-hurt_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6857042fe02903880800000000000000
+      internalID: -8633239892777732730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-hurt_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3b1ead412c56680800000000000000
+      internalID: -8762384105152072744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      squirrel-winter-hurt_0: -934361965689207013
+      squirrel-winter-hurt_1: 849620871614395620
+      squirrel-winter-hurt_10: -8633239892777732730
+      squirrel-winter-hurt_11: -8762384105152072744
+      squirrel-winter-hurt_2: 6708094643586876694
+      squirrel-winter-hurt_3: 7719293251118512447
+      squirrel-winter-hurt_4: -8063749725533219162
+      squirrel-winter-hurt_5: -6162721065040355433
+      squirrel-winter-hurt_6: 7664074974573078635
+      squirrel-winter-hurt_7: 6485487847008262879
+      squirrel-winter-hurt_8: 283046353677697934
+      squirrel-winter-hurt_9: -8394335653203284880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

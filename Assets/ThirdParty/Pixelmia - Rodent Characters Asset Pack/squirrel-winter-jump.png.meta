@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: a493eedb9ccc38e44ae7b011a7f1f90f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5255856702529292788
+    second: squirrel-winter-jump_0
+  - first:
+      213: -6927069848499394445
+    second: squirrel-winter-jump_1
+  - first:
+      213: 391389329761013008
+    second: squirrel-winter-jump_2
+  - first:
+      213: 1418672872403071577
+    second: squirrel-winter-jump_3
+  - first:
+      213: -6253514863342025388
+    second: squirrel-winter-jump_4
+  - first:
+      213: 1063595883391883937
+    second: squirrel-winter-jump_5
+  - first:
+      213: -163244879322364794
+    second: squirrel-winter-jump_6
+  - first:
+      213: -6866572779784615792
+    second: squirrel-winter-jump_7
+  - first:
+      213: 2507017942771427082
+    second: squirrel-winter-jump_8
+  - first:
+      213: -7524908851961624101
+    second: squirrel-winter-jump_9
+  - first:
+      213: -6610709316032416856
+    second: squirrel-winter-jump_10
+  - first:
+      213: 8480980868265891740
+    second: squirrel-winter-jump_11
+  - first:
+      213: 761970790462967283
+    second: squirrel-winter-jump_12
+  - first:
+      213: 5169310066613333784
+    second: squirrel-winter-jump_13
+  - first:
+      213: 1435989366800299924
+    second: squirrel-winter-jump_14
+  - first:
+      213: 7862462832534823876
+    second: squirrel-winter-jump_15
+  - first:
+      213: 5710876258388589714
+    second: squirrel-winter-jump_16
+  - first:
+      213: 46013545056702990
+    second: squirrel-winter-jump_17
+  - first:
+      213: -5173630487114441303
+    second: squirrel-winter-jump_18
+  - first:
+      213: 3781947095631791908
+    second: squirrel-winter-jump_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squirrel-winter-jump_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f94d9003dd80f840800000000000000
+      internalID: 5255856702529292788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 102
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378efd98caa1edf90800000000000000
+      internalID: -6927069848499394445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 97
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d8841958e7e6500800000000000000
+      internalID: 391389329761013008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 96
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9527114067320b310800000000000000
+      internalID: 1418672872403071577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 95
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4558fd44d5d0739a0800000000000000
+      internalID: -6253514863342025388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa142e12d6a2ce00800000000000000
+      internalID: 1063595883391883937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 70
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684c69ca5a90cbdf0800000000000000
+      internalID: -163244879322364794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 65
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098429cff6805b0a0800000000000000
+      internalID: -6866572779784615792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 64
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07eb644987bac220800000000000000
+      internalID: 2507017942771427082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 63
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd982af8447229790800000000000000
+      internalID: -7524908851961624101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3b580f6ea0244a0800000000000000
+      internalID: -6610709316032416856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 37
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c975fdf5a2f72b570800000000000000
+      internalID: 8480980868265891740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 33
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdc4c69560139a00800000000000000
+      internalID: 761970790462967283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 32
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fa65e0e141db740800000000000000
+      internalID: 5169310066613333784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497be5d88b8ade310800000000000000
+      internalID: 1435989366800299924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c323f00a441d1d60800000000000000
+      internalID: 7862462832534823876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 5
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cb67113bb114f40800000000000000
+      internalID: 5710876258388589714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0216ff431973a000800000000000000
+      internalID: 46013545056702990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad9968ab729338b0800000000000000
+      internalID: -5173630487114441303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-jump_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427047a88dc2c7430800000000000000
+      internalID: 3781947095631791908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      squirrel-winter-jump_0: 5255856702529292788
+      squirrel-winter-jump_1: -6927069848499394445
+      squirrel-winter-jump_10: -6610709316032416856
+      squirrel-winter-jump_11: 8480980868265891740
+      squirrel-winter-jump_12: 761970790462967283
+      squirrel-winter-jump_13: 5169310066613333784
+      squirrel-winter-jump_14: 1435989366800299924
+      squirrel-winter-jump_15: 7862462832534823876
+      squirrel-winter-jump_16: 5710876258388589714
+      squirrel-winter-jump_17: 46013545056702990
+      squirrel-winter-jump_18: -5173630487114441303
+      squirrel-winter-jump_19: 3781947095631791908
+      squirrel-winter-jump_2: 391389329761013008
+      squirrel-winter-jump_3: 1418672872403071577
+      squirrel-winter-jump_4: -6253514863342025388
+      squirrel-winter-jump_5: 1063595883391883937
+      squirrel-winter-jump_6: -163244879322364794
+      squirrel-winter-jump_7: -6866572779784615792
+      squirrel-winter-jump_8: 2507017942771427082
+      squirrel-winter-jump_9: -7524908851961624101
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

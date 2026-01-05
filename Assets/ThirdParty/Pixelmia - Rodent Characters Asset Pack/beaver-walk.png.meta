@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 870c04b8c8cff4248a3f40839bfd2415
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5652228496805937738
+    second: beaver-walk_0
+  - first:
+      213: -4857078769073937924
+    second: beaver-walk_1
+  - first:
+      213: 2885740340268212578
+    second: beaver-walk_2
+  - first:
+      213: 5501157001671079658
+    second: beaver-walk_3
+  - first:
+      213: -9009501697790432521
+    second: beaver-walk_4
+  - first:
+      213: 5550917024498857917
+    second: beaver-walk_5
+  - first:
+      213: -5837070358268512205
+    second: beaver-walk_6
+  - first:
+      213: -5919885739739068751
+    second: beaver-walk_7
+  - first:
+      213: -182078315029691024
+    second: beaver-walk_8
+  - first:
+      213: 4328468780493061328
+    second: beaver-walk_9
+  - first:
+      213: 2099998822412875474
+    second: beaver-walk_10
+  - first:
+      213: -8205413752959709645
+    second: beaver-walk_11
+  - first:
+      213: 3699848516865870295
+    second: beaver-walk_12
+  - first:
+      213: -7921957795545403518
+    second: beaver-walk_13
+  - first:
+      213: -1523287484399505516
+    second: beaver-walk_14
+  - first:
+      213: -7324606204031284716
+    second: beaver-walk_15
+  - first:
+      213: -5749780124058838418
+    second: beaver-walk_16
+  - first:
+      213: -6121623621856989779
+    second: beaver-walk_17
+  - first:
+      213: 3749990945511890062
+    second: beaver-walk_18
+  - first:
+      213: 2564818294460974265
+    second: beaver-walk_19
+  - first:
+      213: -2806990126593960779
+    second: beaver-walk_20
+  - first:
+      213: 2020487113675171629
+    second: beaver-walk_21
+  - first:
+      213: -4648323782031835365
+    second: beaver-walk_22
+  - first:
+      213: -3184611835357126091
+    second: beaver-walk_23
+  - first:
+      213: -3883411511557303485
+    second: beaver-walk_24
+  - first:
+      213: -1422819412680134150
+    second: beaver-walk_25
+  - first:
+      213: 231531792988085639
+    second: beaver-walk_26
+  - first:
+      213: -2639785371950867023
+    second: beaver-walk_27
+  - first:
+      213: -5986277455914215910
+    second: beaver-walk_28
+  - first:
+      213: 5732738557084281366
+    second: beaver-walk_29
+  - first:
+      213: 5649863026534271295
+    second: beaver-walk_30
+  - first:
+      213: 3616977901506489017
+    second: beaver-walk_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beaver-walk_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 113
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42457dfedfb07e40800000000000000
+      internalID: 5652228496805937738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 113
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1a14be790389cb0800000000000000
+      internalID: -4857078769073937924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 113
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261a3b7dc853c0820800000000000000
+      internalID: 2885740340268212578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 113
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6f14a8529085c40800000000000000
+      internalID: 5501157001671079658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 113
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa2ce3b0f1d7f280800000000000000
+      internalID: -9009501697790432521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 113
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db73ceeaf91d80d40800000000000000
+      internalID: 5550917024498857917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 113
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338717e6f6f8efea0800000000000000
+      internalID: -5837070358268512205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 113
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6c3fbd84758dda0800000000000000
+      internalID: -5919885739739068751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0758a57bcb0297df0800000000000000
+      internalID: -182078315029691024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 75
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc38a23c6fc11c30800000000000000
+      internalID: 4328468780493061328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 75
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d678ae7dc1b42d10800000000000000
+      internalID: 2099998822412875474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 75
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e4bb37aa3802e80800000000000000
+      internalID: -8205413752959709645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 75
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9cb8a9f90885330800000000000000
+      internalID: 3699848516865870295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 75
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f21e67b5d8f0290800000000000000
+      internalID: -7921957795545403518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 75
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fa1998a123cdae0800000000000000
+      internalID: -1523287484399505516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 75
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ac7110775c95a90800000000000000
+      internalID: -7324606204031284716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a1fd8d07da430b0800000000000000
+      internalID: -5749780124058838418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dade29aefbf9b0ba0800000000000000
+      internalID: -6121623621856989779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 37
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cda2a85e4aa0430800000000000000
+      internalID: 3749990945511890062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 37
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b405ca56a0189320800000000000000
+      internalID: 2564818294460974265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 37
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b496581a519b09d0800000000000000
+      internalID: -2806990126593960779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 37
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27ecdb23563a0c10800000000000000
+      internalID: 2020487113675171629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 37
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ffdfae526dd7fb0800000000000000
+      internalID: -4648323782031835365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 37
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532a806986cfdc3d0800000000000000
+      internalID: -3184611835357126091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343d6f03ec95b1ac0800000000000000
+      internalID: -3883411511557303485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1bba75841214ce0800000000000000
+      internalID: -1422819412680134150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d934360f0963300800000000000000
+      internalID: 231531792988085639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd989db0399d5bd0800000000000000
+      internalID: -2639785371950867023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16dd49de587ceca0800000000000000
+      internalID: -5986277455914215910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aa1352857ce8f40800000000000000
+      internalID: 5732738557084281366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_30
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3940360d78586e40800000000000000
+      internalID: 5649863026534271295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-walk_31
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba6bb3ec36123230800000000000000
+      internalID: 3616977901506489017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      beaver-walk_0: 5652228496805937738
+      beaver-walk_1: -4857078769073937924
+      beaver-walk_10: 2099998822412875474
+      beaver-walk_11: -8205413752959709645
+      beaver-walk_12: 3699848516865870295
+      beaver-walk_13: -7921957795545403518
+      beaver-walk_14: -1523287484399505516
+      beaver-walk_15: -7324606204031284716
+      beaver-walk_16: -5749780124058838418
+      beaver-walk_17: -6121623621856989779
+      beaver-walk_18: 3749990945511890062
+      beaver-walk_19: 2564818294460974265
+      beaver-walk_2: 2885740340268212578
+      beaver-walk_20: -2806990126593960779
+      beaver-walk_21: 2020487113675171629
+      beaver-walk_22: -4648323782031835365
+      beaver-walk_23: -3184611835357126091
+      beaver-walk_24: -3883411511557303485
+      beaver-walk_25: -1422819412680134150
+      beaver-walk_26: 231531792988085639
+      beaver-walk_27: -2639785371950867023
+      beaver-walk_28: -5986277455914215910
+      beaver-walk_29: 5732738557084281366
+      beaver-walk_3: 5501157001671079658
+      beaver-walk_30: 5649863026534271295
+      beaver-walk_31: 3616977901506489017
+      beaver-walk_4: -9009501697790432521
+      beaver-walk_5: 5550917024498857917
+      beaver-walk_6: -5837070358268512205
+      beaver-walk_7: -5919885739739068751
+      beaver-walk_8: -182078315029691024
+      beaver-walk_9: 4328468780493061328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

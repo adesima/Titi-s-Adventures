@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: bb0c29a28e179604b99aba8258b2dc57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8896852363553982979
+    second: squirrel-winter-walk_0
+  - first:
+      213: 5207732834392423861
+    second: squirrel-winter-walk_1
+  - first:
+      213: -7426459005772226091
+    second: squirrel-winter-walk_2
+  - first:
+      213: -3361229312085976409
+    second: squirrel-winter-walk_3
+  - first:
+      213: 9180392133235203130
+    second: squirrel-winter-walk_4
+  - first:
+      213: 5290843148811401019
+    second: squirrel-winter-walk_5
+  - first:
+      213: -8267888833505649043
+    second: squirrel-winter-walk_6
+  - first:
+      213: -5395651560550380863
+    second: squirrel-winter-walk_7
+  - first:
+      213: -6096426558794418461
+    second: squirrel-winter-walk_8
+  - first:
+      213: -7758116312531056649
+    second: squirrel-winter-walk_9
+  - first:
+      213: -8555156567313741844
+    second: squirrel-winter-walk_10
+  - first:
+      213: -5855232797669930920
+    second: squirrel-winter-walk_11
+  - first:
+      213: 2192957399715906182
+    second: squirrel-winter-walk_12
+  - first:
+      213: 3865400500708825012
+    second: squirrel-winter-walk_13
+  - first:
+      213: 5729485174024490779
+    second: squirrel-winter-walk_14
+  - first:
+      213: 5628736026066632254
+    second: squirrel-winter-walk_15
+  - first:
+      213: -3316874091429026659
+    second: squirrel-winter-walk_16
+  - first:
+      213: 7049657269684160402
+    second: squirrel-winter-walk_17
+  - first:
+      213: -3366145590672025688
+    second: squirrel-winter-walk_18
+  - first:
+      213: -4509457500446036534
+    second: squirrel-winter-walk_19
+  - first:
+      213: 2264996250492244865
+    second: squirrel-winter-walk_20
+  - first:
+      213: -5008110403312904098
+    second: squirrel-winter-walk_21
+  - first:
+      213: -5060502925374266876
+    second: squirrel-winter-walk_22
+  - first:
+      213: 5023453674032059626
+    second: squirrel-winter-walk_23
+  - first:
+      213: -1364661912733801169
+    second: squirrel-winter-walk_24
+  - first:
+      213: -5327387820578209992
+    second: squirrel-winter-walk_25
+  - first:
+      213: 3753064233845150551
+    second: squirrel-winter-walk_26
+  - first:
+      213: 4195714210721406410
+    second: squirrel-winter-walk_27
+  - first:
+      213: 2133444279435116610
+    second: squirrel-winter-walk_28
+  - first:
+      213: 8319864944879143137
+    second: squirrel-winter-walk_29
+  - first:
+      213: 3852329974285245643
+    second: squirrel-winter-walk_30
+  - first:
+      213: -8020480942382249397
+    second: squirrel-winter-walk_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squirrel-winter-walk_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30acabc4618f77b70800000000000000
+      internalID: 8896852363553982979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 95
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd391fcb65954840800000000000000
+      internalID: 5207732834392423861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 95
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d122fd91eaefe890800000000000000
+      internalID: -7426459005772226091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 95
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa1c7ccfb38a51d0800000000000000
+      internalID: -3361229312085976409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 95
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c5640610e476f70800000000000000
+      internalID: 9180392133235203130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 95
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37763fcfc9dc6940800000000000000
+      internalID: 5290843148811401019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 95
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e1a7c39ee824d80800000000000000
+      internalID: -8267888833505649043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 95
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cacc993e7bce15b0800000000000000
+      internalID: -5395651560550380863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e63dc35854256ba0800000000000000
+      internalID: -6096426558794418461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 63
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f74c696152a55490800000000000000
+      internalID: -7758116312531056649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce70a6fdd6af54980800000000000000
+      internalID: -8555156567313741844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 63
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858caa9fac80ebea0800000000000000
+      internalID: -5855232797669930920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 63
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68281a1e223fe6e10800000000000000
+      internalID: 2192957399715906182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 63
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7dd5f8649a4a530800000000000000
+      internalID: 3865400500708825012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 63
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fc89fd868338f40800000000000000
+      internalID: 5729485174024490779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 63
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e3528e7994d1e40800000000000000
+      internalID: 5628736026066632254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d942daf569818f1d0800000000000000
+      internalID: -3316874091429026659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 31
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29746c3afe965d160800000000000000
+      internalID: 7049657269684160402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 31
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a71fbd7b6c0941d0800000000000000
+      internalID: -3366145590672025688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 31
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd6134ab403b61c0800000000000000
+      internalID: -4509457500446036534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 31
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1839e20e612ee6f10800000000000000
+      internalID: 2264996250492244865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 31
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58989e4f1e9f7ab0800000000000000
+      internalID: -5008110403312904098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 31
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402ed3ca66b75c9b0800000000000000
+      internalID: -5060502925374266876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_23
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 31
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4df4a4084e6b540800000000000000
+      internalID: 5023453674032059626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f252ffc783fbf0de0800000000000000
+      internalID: -1364661912733801169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f71bdb0015116b0800000000000000
+      internalID: -5327387820578209992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753509d3900951430800000000000000
+      internalID: 3753064233845150551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd9b1548db2a3a30800000000000000
+      internalID: 4195714210721406410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240c1d7c4448b9d10800000000000000
+      internalID: 2133444279435116610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e80fba3619167370800000000000000
+      internalID: 8319864944879143137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_30
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc9cda73b9367530800000000000000
+      internalID: 3852329974285245643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-walk_31
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a0485c31781b090800000000000000
+      internalID: -8020480942382249397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      squirrel-winter-walk_0: 8896852363553982979
+      squirrel-winter-walk_1: 5207732834392423861
+      squirrel-winter-walk_10: -8555156567313741844
+      squirrel-winter-walk_11: -5855232797669930920
+      squirrel-winter-walk_12: 2192957399715906182
+      squirrel-winter-walk_13: 3865400500708825012
+      squirrel-winter-walk_14: 5729485174024490779
+      squirrel-winter-walk_15: 5628736026066632254
+      squirrel-winter-walk_16: -3316874091429026659
+      squirrel-winter-walk_17: 7049657269684160402
+      squirrel-winter-walk_18: -3366145590672025688
+      squirrel-winter-walk_19: -4509457500446036534
+      squirrel-winter-walk_2: -7426459005772226091
+      squirrel-winter-walk_20: 2264996250492244865
+      squirrel-winter-walk_21: -5008110403312904098
+      squirrel-winter-walk_22: -5060502925374266876
+      squirrel-winter-walk_23: 5023453674032059626
+      squirrel-winter-walk_24: -1364661912733801169
+      squirrel-winter-walk_25: -5327387820578209992
+      squirrel-winter-walk_26: 3753064233845150551
+      squirrel-winter-walk_27: 4195714210721406410
+      squirrel-winter-walk_28: 2133444279435116610
+      squirrel-winter-walk_29: 8319864944879143137
+      squirrel-winter-walk_3: -3361229312085976409
+      squirrel-winter-walk_30: 3852329974285245643
+      squirrel-winter-walk_31: -8020480942382249397
+      squirrel-winter-walk_4: 9180392133235203130
+      squirrel-winter-walk_5: 5290843148811401019
+      squirrel-winter-walk_6: -8267888833505649043
+      squirrel-winter-walk_7: -5395651560550380863
+      squirrel-winter-walk_8: -6096426558794418461
+      squirrel-winter-walk_9: -7758116312531056649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

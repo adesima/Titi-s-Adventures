@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 43625a41399303f4f990a2c41e96e3e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2806379553081050815
+    second: squirrel-winter-run_0
+  - first:
+      213: 730847682445574174
+    second: squirrel-winter-run_1
+  - first:
+      213: -6626980475976346231
+    second: squirrel-winter-run_2
+  - first:
+      213: -1909717174146260417
+    second: squirrel-winter-run_3
+  - first:
+      213: -5291630391752514225
+    second: squirrel-winter-run_4
+  - first:
+      213: 817247338973167649
+    second: squirrel-winter-run_5
+  - first:
+      213: 4168844952123441756
+    second: squirrel-winter-run_6
+  - first:
+      213: 5605267044285657191
+    second: squirrel-winter-run_7
+  - first:
+      213: -8514123079591850545
+    second: squirrel-winter-run_8
+  - first:
+      213: -6117369129581361736
+    second: squirrel-winter-run_9
+  - first:
+      213: -7068272753769750261
+    second: squirrel-winter-run_10
+  - first:
+      213: 3327913432089722919
+    second: squirrel-winter-run_11
+  - first:
+      213: 1143158307409123105
+    second: squirrel-winter-run_12
+  - first:
+      213: 3620813732226614273
+    second: squirrel-winter-run_13
+  - first:
+      213: -4068359565759517438
+    second: squirrel-winter-run_14
+  - first:
+      213: -3813930470562611850
+    second: squirrel-winter-run_15
+  - first:
+      213: 4582030618422664346
+    second: squirrel-winter-run_16
+  - first:
+      213: 2455408951853966897
+    second: squirrel-winter-run_17
+  - first:
+      213: 6377561348388578737
+    second: squirrel-winter-run_18
+  - first:
+      213: -4090749046106288521
+    second: squirrel-winter-run_19
+  - first:
+      213: -9119726626105200587
+    second: squirrel-winter-run_20
+  - first:
+      213: 862769314181135029
+    second: squirrel-winter-run_21
+  - first:
+      213: -2387421894752107755
+    second: squirrel-winter-run_22
+  - first:
+      213: -5479197496305090077
+    second: squirrel-winter-run_23
+  - first:
+      213: -6400995245048868426
+    second: squirrel-winter-run_24
+  - first:
+      213: -6067925159550507933
+    second: squirrel-winter-run_25
+  - first:
+      213: -7940385665415714055
+    second: squirrel-winter-run_26
+  - first:
+      213: 1684976143984962471
+    second: squirrel-winter-run_27
+  - first:
+      213: 8178823846934737239
+    second: squirrel-winter-run_28
+  - first:
+      213: 3251554029123364785
+    second: squirrel-winter-run_29
+  - first:
+      213: 3204805709473661142
+    second: squirrel-winter-run_30
+  - first:
+      213: -6123364893145527664
+    second: squirrel-winter-run_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squirrel-winter-run_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6c05ea55342f620800000000000000
+      internalID: 2806379553081050815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 95
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e100611581e742a00800000000000000
+      internalID: 730847682445574174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 95
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9851bfb4e5c3804a0800000000000000
+      internalID: -6626980475976346231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 96
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32ac8529525f75e0800000000000000
+      internalID: -1909717174146260417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 95
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f452ee8e13a5096b0800000000000000
+      internalID: -5291630391752514225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 95
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1200125ff12775b00800000000000000
+      internalID: 817247338973167649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 95
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c528ffe7566bad930800000000000000
+      internalID: 4168844952123441756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 96
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760b9d5cda8e9cd40800000000000000
+      internalID: 5605267044285657191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd09fa3b22c7d980800000000000000
+      internalID: -8514123079591850545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 63
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5cc57103dba1ba0800000000000000
+      internalID: -6117369129581361736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b016bf7316378ed90800000000000000
+      internalID: -7068272753769750261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 64
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72085fa62af1f2e20800000000000000
+      internalID: 3327913432089722919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 63
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12758238c605ddf00800000000000000
+      internalID: 1143158307409123105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 63
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1044933d7e6bf3230800000000000000
+      internalID: 3620813732226614273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 63
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6750b7884a87c0800000000000000
+      internalID: -4068359565759517438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 64
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67db310b172321bc0800000000000000
+      internalID: -3813930470562611850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cdb012294a69f30800000000000000
+      internalID: 4582030618422664346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136e191be6d531220800000000000000
+      internalID: 2455408951853966897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 31
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b566ffa146a18850800000000000000
+      internalID: 6377561348388578737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 32
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e01919a6dba37c0800000000000000
+      internalID: -4090749046106288521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 31
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530f352b3f8307180800000000000000
+      internalID: -9119726626105200587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 31
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5babfdebe1c29fb00800000000000000
+      internalID: 862769314181135029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 31
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5138f429f6c2eded0800000000000000
+      internalID: -2387421894752107755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 32
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1868a38eaf5f3b0800000000000000
+      internalID: -5479197496305090077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1d5e11db81b27a0800000000000000
+      internalID: -6400995245048868426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364265577366acba0800000000000000
+      internalID: -6067925159550507933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faea49ae451ec190800000000000000
+      internalID: -7940385665415714055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab2b3520ec326710800000000000000
+      internalID: 1684976143984962471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751f90d94f4018170800000000000000
+      internalID: 8178823846934737239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b763e97927df1d20800000000000000
+      internalID: 3251554029123364785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_30
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0425f10d1c97c20800000000000000
+      internalID: 3204805709473661142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-run_31
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a86f99210750ba0800000000000000
+      internalID: -6123364893145527664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      squirrel-winter-run_0: 2806379553081050815
+      squirrel-winter-run_1: 730847682445574174
+      squirrel-winter-run_10: -7068272753769750261
+      squirrel-winter-run_11: 3327913432089722919
+      squirrel-winter-run_12: 1143158307409123105
+      squirrel-winter-run_13: 3620813732226614273
+      squirrel-winter-run_14: -4068359565759517438
+      squirrel-winter-run_15: -3813930470562611850
+      squirrel-winter-run_16: 4582030618422664346
+      squirrel-winter-run_17: 2455408951853966897
+      squirrel-winter-run_18: 6377561348388578737
+      squirrel-winter-run_19: -4090749046106288521
+      squirrel-winter-run_2: -6626980475976346231
+      squirrel-winter-run_20: -9119726626105200587
+      squirrel-winter-run_21: 862769314181135029
+      squirrel-winter-run_22: -2387421894752107755
+      squirrel-winter-run_23: -5479197496305090077
+      squirrel-winter-run_24: -6400995245048868426
+      squirrel-winter-run_25: -6067925159550507933
+      squirrel-winter-run_26: -7940385665415714055
+      squirrel-winter-run_27: 1684976143984962471
+      squirrel-winter-run_28: 8178823846934737239
+      squirrel-winter-run_29: 3251554029123364785
+      squirrel-winter-run_3: -1909717174146260417
+      squirrel-winter-run_30: 3204805709473661142
+      squirrel-winter-run_31: -6123364893145527664
+      squirrel-winter-run_4: -5291630391752514225
+      squirrel-winter-run_5: 817247338973167649
+      squirrel-winter-run_6: 4168844952123441756
+      squirrel-winter-run_7: 5605267044285657191
+      squirrel-winter-run_8: -8514123079591850545
+      squirrel-winter-run_9: -6117369129581361736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: e627e7a26819cbb48a470be6a12908fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 99979999054087380
+    second: rat-black-death_0
+  - first:
+      213: -7602381006677778811
+    second: rat-black-death_1
+  - first:
+      213: 4436872868588692877
+    second: rat-black-death_2
+  - first:
+      213: -6044807409465342495
+    second: rat-black-death_3
+  - first:
+      213: -7376497517621760464
+    second: rat-black-death_4
+  - first:
+      213: -8644427826753645835
+    second: rat-black-death_5
+  - first:
+      213: -8976960170050370740
+    second: rat-black-death_6
+  - first:
+      213: -6146893679652735383
+    second: rat-black-death_7
+  - first:
+      213: -9107763830943048003
+    second: rat-black-death_8
+  - first:
+      213: -8882659272644786123
+    second: rat-black-death_9
+  - first:
+      213: -7829207743290369328
+    second: rat-black-death_10
+  - first:
+      213: -3311371358459326779
+    second: rat-black-death_11
+  - first:
+      213: -2819510616154516586
+    second: rat-black-death_12
+  - first:
+      213: -4500820959294520347
+    second: rat-black-death_13
+  - first:
+      213: 8973350727971001515
+    second: rat-black-death_14
+  - first:
+      213: 2707124771426374640
+    second: rat-black-death_15
+  - first:
+      213: 8390962990994772943
+    second: rat-black-death_16
+  - first:
+      213: -6004188204590024736
+    second: rat-black-death_17
+  - first:
+      213: 3326115509951335617
+    second: rat-black-death_18
+  - first:
+      213: -8498605569743085659
+    second: rat-black-death_19
+  - first:
+      213: -8680831749448469441
+    second: rat-black-death_20
+  - first:
+      213: 844288097312850456
+    second: rat-black-death_21
+  - first:
+      213: -1760562956192864086
+    second: rat-black-death_22
+  - first:
+      213: -1559544331209567515
+    second: rat-black-death_23
+  - first:
+      213: -704057024290904935
+    second: rat-black-death_24
+  - first:
+      213: 5191002636277933919
+    second: rat-black-death_25
+  - first:
+      213: 769018105487197692
+    second: rat-black-death_26
+  - first:
+      213: 3034912841256598255
+    second: rat-black-death_27
+  - first:
+      213: -3494341760089451968
+    second: rat-black-death_28
+  - first:
+      213: 5078579866759286808
+    second: rat-black-death_29
+  - first:
+      213: 2899946149980239883
+    second: rat-black-death_30
+  - first:
+      213: 3747779645177453933
+    second: rat-black-death_31
+  - first:
+      213: 9198830909350498956
+    second: rat-black-death_32
+  - first:
+      213: -7194136225429893461
+    second: rat-black-death_33
+  - first:
+      213: -2652212470951265506
+    second: rat-black-death_34
+  - first:
+      213: -968819652229901947
+    second: rat-black-death_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rat-black-death_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d443488743336100800000000000000
+      internalID: 99979999054087380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 95
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e5bc9e0caee7690800000000000000
+      internalID: -7602381006677778811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d852ccdcd50f29d30800000000000000
+      internalID: 4436872868588692877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 95
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e54b2710b78c1ca0800000000000000
+      internalID: -6044807409465342495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 95
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eaa9f079a61a990800000000000000
+      internalID: -7376497517621760464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 95
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2d8d311b2d80880800000000000000
+      internalID: -8644427826753645835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 95
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43415d894e6b6380800000000000000
+      internalID: -8976960170050370740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 95
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966743814c8d1baa0800000000000000
+      internalID: -6146893679652735383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 95
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe1d7efc09ba9180800000000000000
+      internalID: -9107763830943048003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5388d2134747ab480800000000000000
+      internalID: -8882659272644786123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 63
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da9074d901195390800000000000000
+      internalID: -7829207743290369328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 63
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce01ab3b45ab02d0800000000000000
+      internalID: -3311371358459326779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 63
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693daa378061fd8d0800000000000000
+      internalID: -2819510616154516586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 63
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e30e931f2fd981c0800000000000000
+      internalID: -4500820959294520347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 63
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba454b9b1feb78c70800000000000000
+      internalID: 8973350727971001515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 63
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3978bf2a3a19520800000000000000
+      internalID: 2707124771426374640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 63
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc351b11260b27470800000000000000
+      internalID: 8390962990994772943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 63
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e732d4b3a6dcaca0800000000000000
+      internalID: -6004188204590024736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 31
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc019c0f6cb82e20800000000000000
+      internalID: 3326115509951335617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af9e490343ee0a80800000000000000
+      internalID: -8498605569743085659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 31
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34f033548d778780800000000000000
+      internalID: -8680831749448469441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 31
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8124c602d8387bb00800000000000000
+      internalID: 844288097312850456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 31
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8a967b1593197e0800000000000000
+      internalID: -1760562956192864086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 31
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e297ce81b26b5ae0800000000000000
+      internalID: -1559544331209567515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994a58ddddfaa36f0800000000000000
+      internalID: -704057024290904935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57667305652a0840800000000000000
+      internalID: 5191002636277933919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 31
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5886b74e91caa00800000000000000
+      internalID: 769018105487197692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feafe53462d2e1a20800000000000000
+      internalID: 3034912841256598255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0421e0adeaa918fc0800000000000000
+      internalID: -3494341760089451968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81053a93b7dba7640800000000000000
+      internalID: 5078579866759286808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b087559a8adae3820800000000000000
+      internalID: 2899946149980239883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ddd3f0bb9c20430800000000000000
+      internalID: 3747779645177453933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8258bc79ffc8af70800000000000000
+      internalID: 9198830909350498956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae4b79183b492c90800000000000000
+      internalID: -7194136225429893461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bb6184fc2713bd0800000000000000
+      internalID: -2652212470951265506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-black-death_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5815b69c8af0e82f0800000000000000
+      internalID: -968819652229901947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rat-black-death_0: 99979999054087380
+      rat-black-death_1: -7602381006677778811
+      rat-black-death_10: -7829207743290369328
+      rat-black-death_11: -3311371358459326779
+      rat-black-death_12: -2819510616154516586
+      rat-black-death_13: -4500820959294520347
+      rat-black-death_14: 8973350727971001515
+      rat-black-death_15: 2707124771426374640
+      rat-black-death_16: 8390962990994772943
+      rat-black-death_17: -6004188204590024736
+      rat-black-death_18: 3326115509951335617
+      rat-black-death_19: -8498605569743085659
+      rat-black-death_2: 4436872868588692877
+      rat-black-death_20: -8680831749448469441
+      rat-black-death_21: 844288097312850456
+      rat-black-death_22: -1760562956192864086
+      rat-black-death_23: -1559544331209567515
+      rat-black-death_24: -704057024290904935
+      rat-black-death_25: 5191002636277933919
+      rat-black-death_26: 769018105487197692
+      rat-black-death_27: 3034912841256598255
+      rat-black-death_28: -3494341760089451968
+      rat-black-death_29: 5078579866759286808
+      rat-black-death_3: -6044807409465342495
+      rat-black-death_30: 2899946149980239883
+      rat-black-death_31: 3747779645177453933
+      rat-black-death_32: 9198830909350498956
+      rat-black-death_33: -7194136225429893461
+      rat-black-death_34: -2652212470951265506
+      rat-black-death_35: -968819652229901947
+      rat-black-death_4: -7376497517621760464
+      rat-black-death_5: -8644427826753645835
+      rat-black-death_6: -8976960170050370740
+      rat-black-death_7: -6146893679652735383
+      rat-black-death_8: -9107763830943048003
+      rat-black-death_9: -8882659272644786123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

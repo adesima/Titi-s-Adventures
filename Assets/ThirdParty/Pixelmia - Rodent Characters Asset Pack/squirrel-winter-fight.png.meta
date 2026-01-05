@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 6e7b8e41ef8b7194c892c829934f6dae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2085804909280637327
+    second: squirrel-winter-fight_0
+  - first:
+      213: 8516803893008635961
+    second: squirrel-winter-fight_1
+  - first:
+      213: 6461109882842488168
+    second: squirrel-winter-fight_2
+  - first:
+      213: 5969693109012191674
+    second: squirrel-winter-fight_3
+  - first:
+      213: 6081374999958940543
+    second: squirrel-winter-fight_4
+  - first:
+      213: 2025172485726531560
+    second: squirrel-winter-fight_5
+  - first:
+      213: 5219281646835516390
+    second: squirrel-winter-fight_6
+  - first:
+      213: -6619176130528607583
+    second: squirrel-winter-fight_7
+  - first:
+      213: 863010627455291125
+    second: squirrel-winter-fight_8
+  - first:
+      213: -6132104079966931586
+    second: squirrel-winter-fight_9
+  - first:
+      213: 1480405810451239973
+    second: squirrel-winter-fight_10
+  - first:
+      213: -182053161824628620
+    second: squirrel-winter-fight_11
+  - first:
+      213: 3306135538552561318
+    second: squirrel-winter-fight_12
+  - first:
+      213: 2288938883622890708
+    second: squirrel-winter-fight_13
+  - first:
+      213: 153144453929203275
+    second: squirrel-winter-fight_14
+  - first:
+      213: 6066152220757445086
+    second: squirrel-winter-fight_15
+  - first:
+      213: -242895690678038497
+    second: squirrel-winter-fight_16
+  - first:
+      213: -7204674616870058560
+    second: squirrel-winter-fight_17
+  - first:
+      213: 4031958596786317252
+    second: squirrel-winter-fight_18
+  - first:
+      213: 2716792388464930360
+    second: squirrel-winter-fight_19
+  - first:
+      213: -2757508584022359814
+    second: squirrel-winter-fight_20
+  - first:
+      213: -9061520475865727445
+    second: squirrel-winter-fight_21
+  - first:
+      213: 1664792440694932602
+    second: squirrel-winter-fight_22
+  - first:
+      213: -974461910367302512
+    second: squirrel-winter-fight_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squirrel-winter-fight_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f813070938442fc10800000000000000
+      internalID: 2085804909280637327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 95
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93891784404c13670800000000000000
+      internalID: 8516803893008635961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 63
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d979db4397aa950800000000000000
+      internalID: 6461109882842488168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 95
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9d4ccf04c98d250800000000000000
+      internalID: 5969693109012191674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b6e7a8752656450800000000000000
+      internalID: 6081374999958940543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 95
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efef9c55abda1c10800000000000000
+      internalID: 2025172485726531560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 63
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3c85e310d9e6840800000000000000
+      internalID: 5219281646835516390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a209121166f324a0800000000000000
+      internalID: -6619176130528607583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 63
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe0cded7970afb00800000000000000
+      internalID: 863010627455291125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 95
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75f8db14d366eaa0800000000000000
+      internalID: -6132104079966931586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524de57bd357b8410800000000000000
+      internalID: 1480405810451239973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 31
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470d4372d97397df0800000000000000
+      internalID: -182053161824628620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 31
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae58b271c0c1ed20800000000000000
+      internalID: 3306135538552561318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 31
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcebee89c1f3cf10800000000000000
+      internalID: 2288938883622890708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4675c7c114102200800000000000000
+      internalID: 153144453929203275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 63
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9c1bf0e4d4f2450800000000000000
+      internalID: 6066152220757445086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1099aff7af01acf0800000000000000
+      internalID: -242895690678038497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5cf23ab9ad30c90800000000000000
+      internalID: -7204674616870058560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7e7864bf464f730800000000000000
+      internalID: 4031958596786317252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83eefea784cf3b520800000000000000
+      internalID: 2716792388464930360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0c1408d8c5bb9d0800000000000000
+      internalID: -2757508584022359814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 31
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e381f13230f3280800000000000000
+      internalID: -9061520475865727445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74806487e78a1710800000000000000
+      internalID: 1664792440694932602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel-winter-fight_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c88613e040a72f0800000000000000
+      internalID: -974461910367302512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      squirrel-winter-fight_0: 2085804909280637327
+      squirrel-winter-fight_1: 8516803893008635961
+      squirrel-winter-fight_10: 1480405810451239973
+      squirrel-winter-fight_11: -182053161824628620
+      squirrel-winter-fight_12: 3306135538552561318
+      squirrel-winter-fight_13: 2288938883622890708
+      squirrel-winter-fight_14: 153144453929203275
+      squirrel-winter-fight_15: 6066152220757445086
+      squirrel-winter-fight_16: -242895690678038497
+      squirrel-winter-fight_17: -7204674616870058560
+      squirrel-winter-fight_18: 4031958596786317252
+      squirrel-winter-fight_19: 2716792388464930360
+      squirrel-winter-fight_2: 6461109882842488168
+      squirrel-winter-fight_20: -2757508584022359814
+      squirrel-winter-fight_21: -9061520475865727445
+      squirrel-winter-fight_22: 1664792440694932602
+      squirrel-winter-fight_23: -974461910367302512
+      squirrel-winter-fight_3: 5969693109012191674
+      squirrel-winter-fight_4: 6081374999958940543
+      squirrel-winter-fight_5: 2025172485726531560
+      squirrel-winter-fight_6: 5219281646835516390
+      squirrel-winter-fight_7: -6619176130528607583
+      squirrel-winter-fight_8: 863010627455291125
+      squirrel-winter-fight_9: -6132104079966931586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

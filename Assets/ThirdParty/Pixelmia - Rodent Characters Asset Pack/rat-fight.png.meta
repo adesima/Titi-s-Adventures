@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 8dede9aa2fbe71341b3a3b9e898b2b79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2053931462161303352
+    second: rat-fight_0
+  - first:
+      213: -787088271428593026
+    second: rat-fight_1
+  - first:
+      213: -2304267237225970194
+    second: rat-fight_2
+  - first:
+      213: -6653937909220041036
+    second: rat-fight_3
+  - first:
+      213: -7407192047275895039
+    second: rat-fight_4
+  - first:
+      213: -7191556091253272743
+    second: rat-fight_5
+  - first:
+      213: -7613184748872446222
+    second: rat-fight_6
+  - first:
+      213: -4445704284202084462
+    second: rat-fight_7
+  - first:
+      213: -5509280347572680852
+    second: rat-fight_8
+  - first:
+      213: 23264148723674502
+    second: rat-fight_9
+  - first:
+      213: 3105516634159558497
+    second: rat-fight_10
+  - first:
+      213: 5318586204243708401
+    second: rat-fight_11
+  - first:
+      213: -1091805310560971181
+    second: rat-fight_12
+  - first:
+      213: -5137564452797775518
+    second: rat-fight_13
+  - first:
+      213: -7086430277181954322
+    second: rat-fight_14
+  - first:
+      213: -3900544546031825241
+    second: rat-fight_15
+  - first:
+      213: 2076546054775433826
+    second: rat-fight_16
+  - first:
+      213: -6381139528602020185
+    second: rat-fight_17
+  - first:
+      213: 5119835840589948047
+    second: rat-fight_18
+  - first:
+      213: 5560258962264667660
+    second: rat-fight_19
+  - first:
+      213: 8014455096338215128
+    second: rat-fight_20
+  - first:
+      213: 2699639288230028965
+    second: rat-fight_21
+  - first:
+      213: -6362772148764197721
+    second: rat-fight_22
+  - first:
+      213: -2573737760344574550
+    second: rat-fight_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rat-fight_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c870e4a738fe73e0800000000000000
+      internalID: -2053931462161303352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 95
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a5f962363b315f0800000000000000
+      internalID: -787088271428593026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5439108299500e0800000000000000
+      internalID: -2304267237225970194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 95
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be1f63c9b678a3a0800000000000000
+      internalID: -6653937909220041036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 95
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1079507f31e543990800000000000000
+      internalID: -7407192047275895039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 95
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f4d8666d5723c90800000000000000
+      internalID: -7191556091253272743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe490aaec8885690800000000000000
+      internalID: -7613184748872446222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 63
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297d3b3028fad42c0800000000000000
+      internalID: -4445704284202084462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 63
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67c3ea96ba1b83b0800000000000000
+      internalID: -5509280347572680852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 63
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d2da8be96a25000800000000000000
+      internalID: 23264148723674502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 63
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fa52fcce2091b20800000000000000
+      internalID: 3105516634159558497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 63
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f94d3349f96fc940800000000000000
+      internalID: 5318586204243708401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356d02ccad029d0f0800000000000000
+      internalID: -1091805310560971181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 31
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2618054a954b3b8b0800000000000000
+      internalID: -5137564452797775518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 31
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee62ffa5531f7ad90800000000000000
+      internalID: -7086430277181954322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 31
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae8f2fb66b7ed9c0800000000000000
+      internalID: -3900544546031825241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 31
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ae0a282af51dc10800000000000000
+      internalID: 2076546054775433826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 31
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6197f4863a177a0800000000000000
+      internalID: -6381139528602020185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f846daa229f4d0740800000000000000
+      internalID: 5119835840589948047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06b7f011120a2d40800000000000000
+      internalID: 5560258962264667660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0fe8d9270193f60800000000000000
+      internalID: 8014455096338215128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6a3ac11ab077520800000000000000
+      internalID: 2699639288230028965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac392e2174e2b7a0800000000000000
+      internalID: -6362772148764197721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rat-fight_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5f6a9a42f384cd0800000000000000
+      internalID: -2573737760344574550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rat-fight_0: -2053931462161303352
+      rat-fight_1: -787088271428593026
+      rat-fight_10: 3105516634159558497
+      rat-fight_11: 5318586204243708401
+      rat-fight_12: -1091805310560971181
+      rat-fight_13: -5137564452797775518
+      rat-fight_14: -7086430277181954322
+      rat-fight_15: -3900544546031825241
+      rat-fight_16: 2076546054775433826
+      rat-fight_17: -6381139528602020185
+      rat-fight_18: 5119835840589948047
+      rat-fight_19: 5560258962264667660
+      rat-fight_2: -2304267237225970194
+      rat-fight_20: 8014455096338215128
+      rat-fight_21: 2699639288230028965
+      rat-fight_22: -6362772148764197721
+      rat-fight_23: -2573737760344574550
+      rat-fight_3: -6653937909220041036
+      rat-fight_4: -7407192047275895039
+      rat-fight_5: -7191556091253272743
+      rat-fight_6: -7613184748872446222
+      rat-fight_7: -4445704284202084462
+      rat-fight_8: -5509280347572680852
+      rat-fight_9: 23264148723674502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

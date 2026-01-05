@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 0d6396754c7b0074d8efc0a48009d353
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1517929418074419074
+    second: beaver-idle_0
+  - first:
+      213: 5688265141653003303
+    second: beaver-idle_1
+  - first:
+      213: -1218034121378418298
+    second: beaver-idle_2
+  - first:
+      213: 4117600412999899980
+    second: beaver-idle_3
+  - first:
+      213: 980534340808826282
+    second: beaver-idle_4
+  - first:
+      213: -7253400294985811839
+    second: beaver-idle_5
+  - first:
+      213: 5201713706634364587
+    second: beaver-idle_6
+  - first:
+      213: -2414690691870448683
+    second: beaver-idle_7
+  - first:
+      213: 1887580490976291601
+    second: beaver-idle_8
+  - first:
+      213: 6798617183396645613
+    second: beaver-idle_9
+  - first:
+      213: 325748984608260726
+    second: beaver-idle_10
+  - first:
+      213: 5875659219230919652
+    second: beaver-idle_11
+  - first:
+      213: -5984716831898380330
+    second: beaver-idle_12
+  - first:
+      213: -4118526726674074451
+    second: beaver-idle_13
+  - first:
+      213: 9165706660077921085
+    second: beaver-idle_14
+  - first:
+      213: -5991330486817642296
+    second: beaver-idle_15
+  - first:
+      213: 43872190420131001
+    second: beaver-idle_16
+  - first:
+      213: -822441467493646773
+    second: beaver-idle_17
+  - first:
+      213: -3593088501104449225
+    second: beaver-idle_18
+  - first:
+      213: -5439441179392674898
+    second: beaver-idle_19
+  - first:
+      213: -1344259428664801839
+    second: beaver-idle_20
+  - first:
+      213: 4824892335929707819
+    second: beaver-idle_21
+  - first:
+      213: 7342031033805427055
+    second: beaver-idle_22
+  - first:
+      213: -7438888049191343640
+    second: beaver-idle_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beaver-idle_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 113
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fe07e63c4c01510800000000000000
+      internalID: 1517929418074419074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 113
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cd6743207c0fe40800000000000000
+      internalID: 5688265141653003303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 113
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6813fe68b6ca81fe0800000000000000
+      internalID: -1218034121378418298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b5cd772c7a42930800000000000000
+      internalID: 4117600412999899980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 113
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad5bf1b9ce8b9d00800000000000000
+      internalID: 980534340808826282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 113
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18838a3acdeb65b90800000000000000
+      internalID: -7253400294985811839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6c83b6e03303840800000000000000
+      internalID: 5201713706634364587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 75
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3ae9cfb9b4d7ed0800000000000000
+      internalID: -2414690691870448683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 75
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b6999a478023a10800000000000000
+      internalID: 1887580490976291601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 75
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea4934ce4a895e50800000000000000
+      internalID: 6798617183396645613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 75
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6720581c9fa458400800000000000000
+      internalID: 325748984608260726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 75
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb0287ede88a8150800000000000000
+      internalID: 5875659219230919652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d75561ffb302fca0800000000000000
+      internalID: -5984716831898380330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4b3a253cd08d6c0800000000000000
+      internalID: -4118526726674074451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 37
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33606535a1233f70800000000000000
+      internalID: 9165706660077921085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 37
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c824496aa48adca0800000000000000
+      internalID: -5991330486817642296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 37
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc9285568ddb9000800000000000000
+      internalID: 43872190420131001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 37
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e7d71c7d91694f0800000000000000
+      internalID: -822441467493646773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739e0259b09c22ec0800000000000000
+      internalID: -3593088501104449225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3faa511193384b0800000000000000
+      internalID: -5439441179392674898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5077cfb2b385de0800000000000000
+      internalID: -1344259428664801839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d4892240675f240800000000000000
+      internalID: 4824892335929707819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_22
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61ddd3535224e560800000000000000
+      internalID: 7342031033805427055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-idle_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e92d007bb2c3c890800000000000000
+      internalID: -7438888049191343640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      beaver-idle_0: 1517929418074419074
+      beaver-idle_1: 5688265141653003303
+      beaver-idle_10: 325748984608260726
+      beaver-idle_11: 5875659219230919652
+      beaver-idle_12: -5984716831898380330
+      beaver-idle_13: -4118526726674074451
+      beaver-idle_14: 9165706660077921085
+      beaver-idle_15: -5991330486817642296
+      beaver-idle_16: 43872190420131001
+      beaver-idle_17: -822441467493646773
+      beaver-idle_18: -3593088501104449225
+      beaver-idle_19: -5439441179392674898
+      beaver-idle_2: -1218034121378418298
+      beaver-idle_20: -1344259428664801839
+      beaver-idle_21: 4824892335929707819
+      beaver-idle_22: 7342031033805427055
+      beaver-idle_23: -7438888049191343640
+      beaver-idle_3: 4117600412999899980
+      beaver-idle_4: 980534340808826282
+      beaver-idle_5: -7253400294985811839
+      beaver-idle_6: 5201713706634364587
+      beaver-idle_7: -2414690691870448683
+      beaver-idle_8: 1887580490976291601
+      beaver-idle_9: 6798617183396645613
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

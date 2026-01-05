@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 7ce67c36f0236a14283861ce95cd326e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4495376766916241651
+    second: beaver-fight_0
+  - first:
+      213: -3385479891387391194
+    second: beaver-fight_1
+  - first:
+      213: -7399160898396876377
+    second: beaver-fight_2
+  - first:
+      213: -6340241407889488551
+    second: beaver-fight_3
+  - first:
+      213: -1489982995055188148
+    second: beaver-fight_4
+  - first:
+      213: 2169660038402069626
+    second: beaver-fight_5
+  - first:
+      213: -5102798180319342589
+    second: beaver-fight_6
+  - first:
+      213: 1900460543171444107
+    second: beaver-fight_7
+  - first:
+      213: 337617949329674778
+    second: beaver-fight_8
+  - first:
+      213: -5511699025279573687
+    second: beaver-fight_9
+  - first:
+      213: 161920292120351062
+    second: beaver-fight_10
+  - first:
+      213: -6479213323901758331
+    second: beaver-fight_11
+  - first:
+      213: 1620735977009674225
+    second: beaver-fight_12
+  - first:
+      213: -8251993351109053965
+    second: beaver-fight_13
+  - first:
+      213: 3571427334569269929
+    second: beaver-fight_14
+  - first:
+      213: 3660587187314261485
+    second: beaver-fight_15
+  - first:
+      213: -4659457688055519665
+    second: beaver-fight_16
+  - first:
+      213: 5986163875969611962
+    second: beaver-fight_17
+  - first:
+      213: -379630939348908147
+    second: beaver-fight_18
+  - first:
+      213: 1663651228861774645
+    second: beaver-fight_19
+  - first:
+      213: -4237764946325355457
+    second: beaver-fight_20
+  - first:
+      213: 2471575396648097101
+    second: beaver-fight_21
+  - first:
+      213: 7919651541181967270
+    second: beaver-fight_22
+  - first:
+      213: 3283938998221724877
+    second: beaver-fight_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beaver-fight_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 113
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07d964e5a63d91c0800000000000000
+      internalID: -4495376766916241651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 118
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62360afc9fb5401d0800000000000000
+      internalID: -3385479891387391194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 116
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a118178d56e05990800000000000000
+      internalID: -7399160898396876377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 115
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95546841800f208a0800000000000000
+      internalID: -6340241407889488551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 113
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47ec5a3c54825be0800000000000000
+      internalID: -1489982995055188148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 113
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74d0504f4e2c1e10800000000000000
+      internalID: 2169660038402069626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3005e8d37183f29b0800000000000000
+      internalID: -5102798180319342589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d31618bcacf5a10800000000000000
+      internalID: 1900460543171444107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 78
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1257937cb57fa400800000000000000
+      internalID: 337617949329674778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 77
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941285150f28283b0800000000000000
+      internalID: -5511699025279573687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 75
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651d2c5d5a14f3200800000000000000
+      internalID: 161920292120351062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 75
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5849bdc6fc53516a0800000000000000
+      internalID: -6479213323901758331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f77b58b8c20e7610800000000000000
+      internalID: 1620735977009674225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f17242a4c70b7d80800000000000000
+      internalID: -8251993351109053965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 40
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa1f121d32409130800000000000000
+      internalID: 3571427334569269929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 39
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded7639f6a40dc230800000000000000
+      internalID: 3660587187314261485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 37
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46ec796be7465fb0800000000000000
+      internalID: -4659457688055519665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 37
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8b1724450231350800000000000000
+      internalID: 5986163875969611962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d874c5a0ca74bbaf0800000000000000
+      internalID: -379630939348908147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 4
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bb27e6af9761710800000000000000
+      internalID: 1663651228861774645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34cca4eb3f6035c0800000000000000
+      internalID: -4237764946325355457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d451ec07abccc4220800000000000000
+      internalID: 2471575396648097101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aba609dd1148ed60800000000000000
+      internalID: 7919651541181967270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beaver-fight_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccde0dae15e29d20800000000000000
+      internalID: 3283938998221724877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      beaver-fight_0: -4495376766916241651
+      beaver-fight_1: -3385479891387391194
+      beaver-fight_10: 161920292120351062
+      beaver-fight_11: -6479213323901758331
+      beaver-fight_12: 1620735977009674225
+      beaver-fight_13: -8251993351109053965
+      beaver-fight_14: 3571427334569269929
+      beaver-fight_15: 3660587187314261485
+      beaver-fight_16: -4659457688055519665
+      beaver-fight_17: 5986163875969611962
+      beaver-fight_18: -379630939348908147
+      beaver-fight_19: 1663651228861774645
+      beaver-fight_2: -7399160898396876377
+      beaver-fight_20: -4237764946325355457
+      beaver-fight_21: 2471575396648097101
+      beaver-fight_22: 7919651541181967270
+      beaver-fight_23: 3283938998221724877
+      beaver-fight_3: -6340241407889488551
+      beaver-fight_4: -1489982995055188148
+      beaver-fight_5: 2169660038402069626
+      beaver-fight_6: -5102798180319342589
+      beaver-fight_7: 1900460543171444107
+      beaver-fight_8: 337617949329674778
+      beaver-fight_9: -5511699025279573687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
