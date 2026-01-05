@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="Assets\Pixel Lands - Forest Desert\Scripts\BirdMover.cs" />
     <Compile Include="Assets\Pixel Lands - Forest Desert\Scripts\CritterMover.cs" />
+    <Compile Include="Assets\Scripts\WaterManagement.cs" />
     <Compile Include="Assets\Scripts\TestPlayerController.cs" />
   </ItemGroup>
   <ItemGroup>
