@@ -48,8 +48,8 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.2.10f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Andreea\HealthBar.cs" />
     <Compile Include="Assets\Scripts\Items\Collectable.cs" />
+    <Compile Include="Assets\Scripts\Player\Movement.cs" />
     <Compile Include="Assets\Scripts\Enemies\Projectile.cs" />
     <Compile Include="Assets\Scripts\Enemies\MeleeEnemy.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyHealth.cs" />
@@ -60,8 +60,8 @@
     <Compile Include="Assets\Andreea\InputSystem_Actions - Copy.cs" />
     <Compile Include="Assets\ThirdParty\Pixel Lands - Forest Desert\Scripts\BirdMover.cs" />
     <Compile Include="Assets\Scripts\Enemies\RangedEnemy.cs" />
-    <Compile Include="Assets\Andreea\Movement.cs" />
     <Compile Include="Assets\ThirdParty\Pixel Lands - Forest Desert\Scripts\CritterMover.cs" />
+    <Compile Include="Assets\Scripts\Player\HealthBar.cs" />
     <Compile Include="Assets\Scripts\WaterManagement.cs" />
     <Compile Include="Assets\Andreea\HealthManager.cs" />
     <Compile Include="Assets\Scripts\TestPlayerController.cs" />

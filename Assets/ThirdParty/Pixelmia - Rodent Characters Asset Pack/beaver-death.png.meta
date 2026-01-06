@@ -142,7 +142,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -156,7 +156,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 24
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -177,10 +177,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -221,12 +221,12 @@ TextureImporter:
       name: beaver-death_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 113
-        width: 25
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6
+        y: 114
+        width: 23
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -243,12 +243,12 @@ TextureImporter:
       name: beaver-death_1
       rect:
         serializedVersion: 2
-        x: 42
-        y: 113
-        width: 23
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 43
+        y: 114
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -265,12 +265,12 @@ TextureImporter:
       name: beaver-death_2
       rect:
         serializedVersion: 2
-        x: 77
-        y: 113
-        width: 25
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 78
+        y: 114
+        width: 23
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -287,12 +287,12 @@ TextureImporter:
       name: beaver-death_3
       rect:
         serializedVersion: 2
-        x: 113
-        y: 113
-        width: 25
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 114
+        y: 114
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -309,12 +309,12 @@ TextureImporter:
       name: beaver-death_4
       rect:
         serializedVersion: 2
-        x: 149
-        y: 113
-        width: 25
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 150
+        y: 114
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -331,12 +331,12 @@ TextureImporter:
       name: beaver-death_5
       rect:
         serializedVersion: 2
-        x: 185
-        y: 113
-        width: 25
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 186
+        y: 114
+        width: 23
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -353,12 +353,12 @@ TextureImporter:
       name: beaver-death_6
       rect:
         serializedVersion: 2
-        x: 221
-        y: 113
-        width: 25
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 222
+        y: 114
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -375,12 +375,12 @@ TextureImporter:
       name: beaver-death_7
       rect:
         serializedVersion: 2
-        x: 257
-        y: 113
-        width: 25
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 258
+        y: 114
+        width: 23
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -397,12 +397,12 @@ TextureImporter:
       name: beaver-death_8
       rect:
         serializedVersion: 2
-        x: 293
-        y: 113
-        width: 25
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 294
+        y: 114
+        width: 23
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -419,12 +419,12 @@ TextureImporter:
       name: beaver-death_9
       rect:
         serializedVersion: 2
-        x: 5
-        y: 75
-        width: 25
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6
+        y: 76
+        width: 23
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -441,12 +441,12 @@ TextureImporter:
       name: beaver-death_10
       rect:
         serializedVersion: 2
-        x: 42
-        y: 75
-        width: 23
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 43
+        y: 76
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -463,12 +463,12 @@ TextureImporter:
       name: beaver-death_11
       rect:
         serializedVersion: 2
-        x: 77
-        y: 75
-        width: 25
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 78
+        y: 76
+        width: 23
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -485,12 +485,12 @@ TextureImporter:
       name: beaver-death_12
       rect:
         serializedVersion: 2
-        x: 113
-        y: 75
-        width: 25
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 114
+        y: 76
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -507,12 +507,12 @@ TextureImporter:
       name: beaver-death_13
       rect:
         serializedVersion: 2
-        x: 149
-        y: 75
-        width: 25
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 150
+        y: 76
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -529,12 +529,12 @@ TextureImporter:
       name: beaver-death_14
       rect:
         serializedVersion: 2
-        x: 185
-        y: 75
-        width: 25
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 186
+        y: 76
+        width: 23
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -551,12 +551,12 @@ TextureImporter:
       name: beaver-death_15
       rect:
         serializedVersion: 2
-        x: 221
-        y: 75
-        width: 25
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 222
+        y: 76
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -573,12 +573,12 @@ TextureImporter:
       name: beaver-death_16
       rect:
         serializedVersion: 2
-        x: 257
-        y: 75
-        width: 25
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 258
+        y: 76
+        width: 23
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -595,12 +595,12 @@ TextureImporter:
       name: beaver-death_17
       rect:
         serializedVersion: 2
-        x: 293
-        y: 75
-        width: 25
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 294
+        y: 76
+        width: 23
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -617,12 +617,12 @@ TextureImporter:
       name: beaver-death_18
       rect:
         serializedVersion: 2
-        x: 1
-        y: 37
-        width: 29
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2
+        y: 38
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -639,12 +639,12 @@ TextureImporter:
       name: beaver-death_19
       rect:
         serializedVersion: 2
-        x: 36
-        y: 37
-        width: 27
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 37
+        y: 38
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -661,12 +661,12 @@ TextureImporter:
       name: beaver-death_20
       rect:
         serializedVersion: 2
-        x: 73
-        y: 37
-        width: 29
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 74
+        y: 38
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -683,12 +683,12 @@ TextureImporter:
       name: beaver-death_21
       rect:
         serializedVersion: 2
-        x: 109
-        y: 37
-        width: 29
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 110
+        y: 38
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -705,12 +705,12 @@ TextureImporter:
       name: beaver-death_22
       rect:
         serializedVersion: 2
-        x: 145
-        y: 37
-        width: 29
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 146
+        y: 38
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -727,12 +727,12 @@ TextureImporter:
       name: beaver-death_23
       rect:
         serializedVersion: 2
-        x: 181
-        y: 37
-        width: 32
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 182
+        y: 38
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -749,12 +749,12 @@ TextureImporter:
       name: beaver-death_24
       rect:
         serializedVersion: 2
-        x: 217
-        y: 37
-        width: 34
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 218
+        y: 38
+        width: 32
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -771,12 +771,12 @@ TextureImporter:
       name: beaver-death_25
       rect:
         serializedVersion: 2
-        x: 253
-        y: 37
-        width: 34
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 254
+        y: 38
+        width: 32
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -793,12 +793,12 @@ TextureImporter:
       name: beaver-death_26
       rect:
         serializedVersion: 2
-        x: 288
-        y: 37
-        width: 36
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 289
+        y: 38
+        width: 34
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -815,12 +815,12 @@ TextureImporter:
       name: beaver-death_27
       rect:
         serializedVersion: 2
-        x: 6
+        x: 7
         y: 0
-        width: 29
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -837,12 +837,12 @@ TextureImporter:
       name: beaver-death_28
       rect:
         serializedVersion: 2
-        x: 45
+        x: 46
         y: 0
-        width: 27
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -859,12 +859,12 @@ TextureImporter:
       name: beaver-death_29
       rect:
         serializedVersion: 2
-        x: 78
+        x: 79
         y: 0
-        width: 29
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -881,12 +881,12 @@ TextureImporter:
       name: beaver-death_30
       rect:
         serializedVersion: 2
-        x: 114
+        x: 115
         y: 0
-        width: 29
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -903,12 +903,12 @@ TextureImporter:
       name: beaver-death_31
       rect:
         serializedVersion: 2
-        x: 150
+        x: 151
         y: 0
-        width: 29
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -925,12 +925,12 @@ TextureImporter:
       name: beaver-death_32
       rect:
         serializedVersion: 2
-        x: 183
+        x: 184
         y: 0
-        width: 32
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -947,12 +947,12 @@ TextureImporter:
       name: beaver-death_33
       rect:
         serializedVersion: 2
-        x: 217
+        x: 218
         y: 0
-        width: 34
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -969,12 +969,12 @@ TextureImporter:
       name: beaver-death_34
       rect:
         serializedVersion: 2
-        x: 253
+        x: 254
         y: 0
-        width: 34
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -991,12 +991,12 @@ TextureImporter:
       name: beaver-death_35
       rect:
         serializedVersion: 2
-        x: 288
+        x: 289
         y: 0
-        width: 36
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 34
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1013,7 +1013,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7a32b9c8242e5f849baad29ec911a9d6
     internalID: 0
     vertices: []
     indices: 
@@ -1021,7 +1021,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.07999999821186066},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       beaver-death_0: -2191996973960690351
       beaver-death_1: 3770679857451905610

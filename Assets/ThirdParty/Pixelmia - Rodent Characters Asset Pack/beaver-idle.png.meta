@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 24
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -141,10 +141,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -185,12 +185,12 @@ TextureImporter:
       name: beaver-idle_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 113
-        width: 25
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6
+        y: 114
+        width: 23
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -207,12 +207,12 @@ TextureImporter:
       name: beaver-idle_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 113
-        width: 25
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 42
+        y: 114
+        width: 23
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -229,12 +229,12 @@ TextureImporter:
       name: beaver-idle_2
       rect:
         serializedVersion: 2
-        x: 77
-        y: 113
-        width: 25
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 78
+        y: 114
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -251,12 +251,12 @@ TextureImporter:
       name: beaver-idle_3
       rect:
         serializedVersion: 2
-        x: 112
-        y: 113
-        width: 27
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 113
+        y: 114
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -273,12 +273,12 @@ TextureImporter:
       name: beaver-idle_4
       rect:
         serializedVersion: 2
-        x: 147
-        y: 113
-        width: 29
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 148
+        y: 114
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -295,12 +295,12 @@ TextureImporter:
       name: beaver-idle_5
       rect:
         serializedVersion: 2
-        x: 185
-        y: 113
-        width: 25
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 186
+        y: 114
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -317,12 +317,12 @@ TextureImporter:
       name: beaver-idle_6
       rect:
         serializedVersion: 2
-        x: 5
-        y: 75
-        width: 25
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6
+        y: 76
+        width: 23
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -339,12 +339,12 @@ TextureImporter:
       name: beaver-idle_7
       rect:
         serializedVersion: 2
-        x: 41
-        y: 75
-        width: 25
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 42
+        y: 76
+        width: 23
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -361,12 +361,12 @@ TextureImporter:
       name: beaver-idle_8
       rect:
         serializedVersion: 2
-        x: 77
-        y: 75
-        width: 25
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 78
+        y: 76
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -383,12 +383,12 @@ TextureImporter:
       name: beaver-idle_9
       rect:
         serializedVersion: 2
-        x: 112
-        y: 75
-        width: 27
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 113
+        y: 76
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -405,12 +405,12 @@ TextureImporter:
       name: beaver-idle_10
       rect:
         serializedVersion: 2
-        x: 147
-        y: 75
-        width: 29
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 148
+        y: 76
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -427,12 +427,12 @@ TextureImporter:
       name: beaver-idle_11
       rect:
         serializedVersion: 2
-        x: 185
-        y: 75
-        width: 25
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 186
+        y: 76
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -449,19 +449,19 @@ TextureImporter:
       name: beaver-idle_12
       rect:
         serializedVersion: 2
-        x: 1
-        y: 37
-        width: 29
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2
+        y: 38
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6d75561ffb302fca0800000000000000
+      spriteID: 4060e69611964524f8fc7d4b81c3143a
       internalID: -5984716831898380330
       vertices: []
       indices: 
@@ -471,19 +471,19 @@ TextureImporter:
       name: beaver-idle_13
       rect:
         serializedVersion: 2
-        x: 37
-        y: 37
-        width: 29
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 38
+        y: 38
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: da4b3a253cd08d6c0800000000000000
+      spriteID: f7683c66c641010419f7db92be6c37b3
       internalID: -4118526726674074451
       vertices: []
       indices: 
@@ -493,19 +493,19 @@ TextureImporter:
       name: beaver-idle_14
       rect:
         serializedVersion: 2
-        x: 73
-        y: 37
-        width: 29
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 74
+        y: 38
+        width: 27
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d33606535a1233f70800000000000000
+      spriteID: 5c7e3b1ecb22e0446b7d7d7db4d43553
       internalID: 9165706660077921085
       vertices: []
       indices: 
@@ -515,19 +515,19 @@ TextureImporter:
       name: beaver-idle_15
       rect:
         serializedVersion: 2
-        x: 109
-        y: 37
-        width: 29
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 110
+        y: 38
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8c824496aa48adca0800000000000000
+      spriteID: 105c32ab2c331f24b98010854f9ef304
       internalID: -5991330486817642296
       vertices: []
       indices: 
@@ -537,19 +537,19 @@ TextureImporter:
       name: beaver-idle_16
       rect:
         serializedVersion: 2
-        x: 145
-        y: 37
-        width: 30
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 146
+        y: 38
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9bc9285568ddb9000800000000000000
+      spriteID: b9bf7bdd95bc6e649b9f04725cfbbcdd
       internalID: 43872190420131001
       vertices: []
       indices: 
@@ -559,19 +559,19 @@ TextureImporter:
       name: beaver-idle_17
       rect:
         serializedVersion: 2
-        x: 181
-        y: 37
-        width: 29
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 182
+        y: 38
+        width: 27
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b4e7d71c7d91694f0800000000000000
+      spriteID: 4443998e88a289d4985aa80cd15b1cfe
       internalID: -822441467493646773
       vertices: []
       indices: 
@@ -581,19 +581,19 @@ TextureImporter:
       name: beaver-idle_18
       rect:
         serializedVersion: 2
-        x: 6
+        x: 7
         y: 0
-        width: 29
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 739e0259b09c22ec0800000000000000
+      spriteID: df2dffe58303c7d42baed7a69bfbd073
       internalID: -3593088501104449225
       vertices: []
       indices: 
@@ -603,19 +603,19 @@ TextureImporter:
       name: beaver-idle_19
       rect:
         serializedVersion: 2
-        x: 42
+        x: 43
         y: 0
-        width: 29
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ea3faa511193384b0800000000000000
+      spriteID: c77838a16bac74c47bc9dcc8569dd2d2
       internalID: -5439441179392674898
       vertices: []
       indices: 
@@ -625,19 +625,19 @@ TextureImporter:
       name: beaver-idle_20
       rect:
         serializedVersion: 2
-        x: 78
+        x: 79
         y: 0
-        width: 29
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1d5077cfb2b385de0800000000000000
+      spriteID: 51254feaa6338174088d971b9537f9fd
       internalID: -1344259428664801839
       vertices: []
       indices: 
@@ -647,19 +647,19 @@ TextureImporter:
       name: beaver-idle_21
       rect:
         serializedVersion: 2
-        x: 114
+        x: 115
         y: 0
-        width: 29
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b2d4892240675f240800000000000000
+      spriteID: 182ac178810ea474ea99e11759d18313
       internalID: 4824892335929707819
       vertices: []
       indices: 
@@ -669,19 +669,19 @@ TextureImporter:
       name: beaver-idle_22
       rect:
         serializedVersion: 2
-        x: 149
+        x: 150
         y: 0
-        width: 30
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f61ddd3535224e560800000000000000
+      spriteID: acd714c52402c6344b1c24eb0ada1344
       internalID: 7342031033805427055
       vertices: []
       indices: 
@@ -691,19 +691,19 @@ TextureImporter:
       name: beaver-idle_23
       rect:
         serializedVersion: 2
-        x: 186
+        x: 187
         y: 0
-        width: 29
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 27
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8e92d007bb2c3c890800000000000000
+      spriteID: 634d09b79830a9949bbf5ed52a47258e
       internalID: -7438888049191343640
       vertices: []
       indices: 
@@ -713,7 +713,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 87d4b516de18dbc4eae1959f8f18c9b4
     internalID: 0
     vertices: []
     indices: 
@@ -721,7 +721,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.07999999821186066},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       beaver-idle_0: 1517929418074419074
       beaver-idle_1: 5688265141653003303
