@@ -22,6 +22,15 @@ public class PlayerInventory : MonoBehaviour
         UpdateUI();  // Actualizează ecranul
     }
 
+    public void RemoveWood(int amount)
+    {
+        woodCount -= amount;
+        if (woodCount < 0)
+            woodCount = 0; // Nu permitem numere negative
+
+        UpdateUI(); // Actualizează ecranul
+    }
+
     // Funcție separată pentru actualizarea textului
     void UpdateUI()
     {

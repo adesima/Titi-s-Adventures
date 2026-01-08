@@ -47734,6 +47734,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Titi
       objectReference: {fileID: 0}
+    - target: {fileID: 7766659829398563387, guid: 39fea1f502843064391b9445bb40b688, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

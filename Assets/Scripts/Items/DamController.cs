@@ -48,7 +48,7 @@ public class DamController : MonoBehaviour
         if (lemnePlayer >= lemneNecesare)
         {
             ReparaBarajul();
-            // Scadem lemnele din inventar aici (ex: inventory.ScadeLemne(5));
+            FindObjectOfType<PlayerInventory>().RemoveWood(lemneNecesare); // Scoatem lemnele din inventar
         }
         else
         {

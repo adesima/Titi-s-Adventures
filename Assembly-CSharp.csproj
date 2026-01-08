@@ -62,7 +62,7 @@
     <Compile Include="Assets\Scripts\Enemies\RangedEnemy.cs" />
     <Compile Include="Assets\ThirdParty\Pixel Lands - Forest Desert\Scripts\CritterMover.cs" />
     <Compile Include="Assets\Scripts\Player\HealthBar.cs" />
-    <Compile Include="Assets\Scripts\WaterManagement.cs" />
+    <Compile Include="Assets\Scripts\Items\WaterManagement.cs" />
     <Compile Include="Assets\Andreea\HealthManager.cs" />
     <Compile Include="Assets\Scripts\TestPlayerController.cs" />
     <Compile Include="Assets\Scripts\Items\WoodCollectible.cs" />
