@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class RangedEnemy : EnemyAI
+public class RangedEnemy : EnemyAI_Alex
 {
     [Header("Projectile")]
     public GameObject projectilePrefab;

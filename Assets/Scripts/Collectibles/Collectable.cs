@@ -27,7 +27,7 @@ public class Collectable : MonoBehaviour
                     PlayerHealth hp = collision.GetComponent<PlayerHealth>();
                     if (hp != null)
                     {
-                        hp.currentHealth = Mathf.Min(hp.maxHealth, hp.currentHealth + amount);
+                        hp.currentHealth = Mathf.Min(hp.GetMaxHealth(), hp.currentHealth + amount);
                         Debug.Log("Healed +" + amount);
                     }
                     break;

@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(EnemyBase))]
-public class MeleeEnemy : EnemyAI
+public class MeleeEnemy : EnemyAI_Alex
 {
     public int meleeDamage = 15;
     public float attackWindup = 0.2f;
