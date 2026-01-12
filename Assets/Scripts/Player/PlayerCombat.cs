@@ -55,10 +55,10 @@ public class PlayerCombat : MonoBehaviour
             else
             {
                 // Verificăm și EnemyHealth în caz că folosești scriptul vechi pe unii inamici
-                EnemyHealth oldEnemyScript = enemy.GetComponent<EnemyHealth>();
+                SistemViata oldEnemyScript = enemy.GetComponent<SistemViata>();
                 if(oldEnemyScript != null)
                 {
-                    oldEnemyScript.TakeDamage(damage);
+                    oldEnemyScript.PrimesteDamage(damage);
                 }
             }
         }
