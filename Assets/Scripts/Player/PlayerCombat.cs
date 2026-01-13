@@ -1,29 +1,25 @@
 using UnityEngine;
+using System.Collections.Generic; // Avem nevoie de asta pentru HashSet
 
 public class PlayerCombat : MonoBehaviour
 {
     [Header("Combat Settings")]
-    public Transform attackPoint;   // Un obiect gol pus în fața jucătorului
-    public float attackRange = 0.8f;
-    public LayerMask enemyLayers;   // Layer-ul pe care sunt inamicii
+    public Transform[] attackPoints; // MODIFICAT: Acum avem o listă de puncte
+    public float attackRange = 0.5f;
+    public LayerMask enemyLayers;
     public int damage = 20;
     public float attackCooldown = 0.5f;
 
     private float nextAttackTime = 0f;
     private Animator animator;
 
-    void Awake()
-    {
-        animator = GetComponent<Animator>();
-    }
+    void Awake() { animator = GetComponent<Animator>(); }
 
     void Update()
     {
-        // Putem ataca doar dacă a trecut timpul de cooldown
         if (Time.time >= nextAttackTime)
         {
-            // Click Stânga (Fire1) sau Space
-            if (Input.GetButtonDown("Fire1") || Input.GetKeyDown(KeyCode.Space)) 
+            if (Input.GetButtonDown("Fire1") || Input.GetKeyDown(KeyCode.Space))
             {
                 Attack();
                 nextAttackTime = Time.time + attackCooldown;
@@ -33,42 +29,44 @@ public class PlayerCombat : MonoBehaviour
 
     void Attack()
     {
-        // 1. Pornim animația
-        if (animator != null)
-            animator.SetTrigger("Attack");
+        if (animator != null) animator.SetTrigger("Attack");
 
-        // 2. Detectăm inamicii în raza de acțiune
-        // Notă: Folosim OverlapCircle pentru a vedea ce atingem
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+        // Folosim un HashSet pentru a nu lovi același inamic de mai multe ori
+        HashSet<RatHealth> enemiesHit = new HashSet<RatHealth>();
 
-        // 3. Le dăm damage
-        foreach (Collider2D enemy in hitEnemies)
+        // Verificăm fiecare punct de atac din listă
+        foreach (Transform point in attackPoints)
         {
-            // Încercăm să găsim scriptul EnemyBase (pe care l-ai urcat tu)
-            EnemyBase enemyScript = enemy.GetComponent<EnemyBase>();
-            
-            if (enemyScript != null)
+            if (point == null) continue;
+
+            Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(point.position, attackRange, enemyLayers);
+
+            foreach (Collider2D enemy in hitEnemies)
             {
-                enemyScript.TakeDamage(damage);
-                Debug.Log("Am lovit inamicul: " + enemy.name);
-            }
-            else
-            {
-                // Verificăm și EnemyHealth în caz că folosești scriptul vechi pe unii inamici
-                SistemViata oldEnemyScript = enemy.GetComponent<SistemViata>();
-                if(oldEnemyScript != null)
+                RatHealth health = enemy.GetComponent<RatHealth>();
+                if (health != null)
                 {
-                    oldEnemyScript.PrimesteDamage(damage);
+                    enemiesHit.Add(health);
                 }
             }
         }
+
+        // Aplicăm damage inamicilor unici detectați
+        foreach (RatHealth enemyHealth in enemiesHit)
+        {
+            enemyHealth.TakeDamage(damage);
+        }
     }
 
-    // Vizualizăm raza atacului în Editor
+    // Desenăm cercurile pentru toate punctele în Editor
     private void OnDrawGizmosSelected()
     {
-        if (attackPoint == null) return;
+        if (attackPoints == null) return;
         Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
+        foreach (Transform point in attackPoints)
+        {
+            if (point != null)
+                Gizmos.DrawWireSphere(point.position, attackRange);
+        }
     }
 }

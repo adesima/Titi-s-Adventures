@@ -14522,7 +14522,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7766659829398563387, guid: 39fea1f502843064391b9445bb40b688, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 919532717}
   m_SourcePrefab: {fileID: 100100000, guid: 39fea1f502843064391b9445bb40b688, type: 3}
 --- !u!4 &503848833 stripped
 Transform:
@@ -21931,6 +21934,31 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4435478106936758010, guid: 511623679bba1304ab40e761a0f5d854, type: 3}
   m_PrefabInstance: {fileID: 878389438}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &919532709 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7766659829398563387, guid: 39fea1f502843064391b9445bb40b688, type: 3}
+  m_PrefabInstance: {fileID: 500425652}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &919532717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 919532709}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ae487eaf79050548ad532192cc60c41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerCombat
+  attackPoints:
+  - {fileID: 1487657210}
+  attackRange: 6
+  enemyLayers:
+    serializedVersion: 2
+    m_Bits: 256
+  damage: 5
+  attackCooldown: 1
 --- !u!1001 &921376291
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23299,8 +23327,9 @@ GameObject:
   - component: {fileID: 1071518509}
   - component: {fileID: 1071518508}
   - component: {fileID: 1071518507}
-  m_Layer: 0
-  m_Name: rat-black-idle_0
+  - component: {fileID: 1071518511}
+  m_Layer: 8
+  m_Name: Sobolan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23416,9 +23445,9 @@ MonoBehaviour:
   moveSpeed: 2
   waitTimeAtPoint: 2
   maxHealth: 5
-  damageDealt: 1
+  damageDealt: 15
   attackRange: 1.2
-  attackCooldown: 1.5
+  attackCooldown: 4
   patrolPoints:
   - {fileID: 1878124976}
   - {fileID: 1555732620}
@@ -23523,6 +23552,19 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &1071518511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1071518503}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8535c53ff90b12449965d82abd359471, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RatHealth
+  maxHealth: 30
 --- !u!4 &1072315986 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4435478106936758010, guid: 511623679bba1304ab40e761a0f5d854, type: 3}
@@ -25550,7 +25592,6 @@ GameObject:
   - component: {fileID: 1289780791}
   - component: {fileID: 1289780795}
   - component: {fileID: 1289780794}
-  - component: {fileID: 1289780793}
   m_Layer: 0
   m_Name: idle_4
   m_TagString: Untagged
@@ -25631,20 +25672,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1289780793
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1289780790}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 09217bf452c29ef40a3c4958f6a0eda9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  moveSpeed: 5
-  rb: {fileID: 1289780794}
 --- !u!50 &1289780794
 Rigidbody2D:
   serializedVersion: 5
@@ -38605,6 +38632,37 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8cf419b508fe28341bc36eff928abacc, type: 3}
+--- !u!1 &1487657209
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1487657210}
+  m_Layer: 0
+  m_Name: AttackPoint_Right
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1487657210
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1487657209}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.34, y: -29.66, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1491751978
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -128281,3 +128339,4 @@ SceneRoots:
   - {fileID: 1343518256}
   - {fileID: 1019416429}
   - {fileID: 4362058587792157071}
+  - {fileID: 1487657210}
