@@ -3,10 +3,10 @@ using UnityEngine.UIElements;
 
 public class UIManager : MonoBehaviour
 {
-  
+
     private Label healthUI;
     private ProgressBar ProgressBar;
-    int health = 100;
+    static int health = 100;
     static int item = 0;
 
     private void OnEnable()
@@ -14,19 +14,19 @@ public class UIManager : MonoBehaviour
         var root = GetComponent<UIDocument>().rootVisualElement;
         ProgressBar = root.Q<ProgressBar>("viata");
         healthUI = root.Q<Label>("health");
-        
+
         UpdateResourceUI();
     }
     private void FixedUpdate()
     {
-       health = HealthBar.GetCurrentHealth();
+        health = HealthBar.GetCurrentHealth();
         UpdateResourceUI();
     }
     public void UpdateResourceUI()
     {
         ProgressBar.value = health;
-       // ProgressBar.title = $"{health} / 100";
-       //Debug.Log(health);
+        // ProgressBar.title = $"{health} / 100";
+        //Debug.Log(health);
         //healthUI.text = $"❤️  {health}";
     }
     public static void AddItem(Collider2D Item)
@@ -34,7 +34,12 @@ public class UIManager : MonoBehaviour
         if (Item.name.Contains("Item"))
         {
             Destroy(Item.gameObject);
-            item++; 
+            item++;
         }
+    }
+
+    public static void RegenHealth(int amount)
+    {
+        health += 20;
     }
 }
