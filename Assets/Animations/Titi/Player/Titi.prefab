@@ -13,10 +13,9 @@ GameObject:
   - component: {fileID: 8220181598814376119}
   - component: {fileID: 1667981330433805775}
   - component: {fileID: 2999126663516404067}
-  - component: {fileID: 5670417895520907492}
-  - component: {fileID: 3966013805743029288}
   - component: {fileID: 7284271186218348506}
-  - component: {fileID: -1573189801999631940}
+  - component: {fileID: 2847956702216674468}
+  - component: {fileID: 7084593125204439841}
   m_Layer: 0
   m_Name: Titi
   m_TagString: Untagged
@@ -122,7 +121,7 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!70 &1667981330433805775
 CapsuleCollider2D:
@@ -183,32 +182,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &5670417895520907492
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7766659829398563387}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eae3013373ac1ad498b809e4583727da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Movement
-  _animator: {fileID: 2999126663516404067}
-  spriteRenderer: {fileID: 7142084175993843933}
---- !u!114 &3966013805743029288
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7766659829398563387}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6b3e3502b8a8bdb4290a3ffaeede05fc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::HealthBar
 --- !u!114 &7284271186218348506
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -223,7 +196,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerInventory
   woodCount: 0
   woodText: {fileID: 0}
---- !u!114 &-1573189801999631940
+--- !u!114 &2847956702216674468
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -232,10 +205,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 7766659829398563387}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a53d946ec4a6484196f1b71fca10844, type: 3}
+  m_Script: {fileID: 11500000, guid: eae3013373ac1ad498b809e4583727da, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
-  maxHealth: 100
-  currentHealth: 0
-  hitVFX: {fileID: 0}
-  invincibilityTime: 0.5
+  m_EditorClassIdentifier: Assembly-CSharp::Movement
+--- !u!114 &7084593125204439841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7766659829398563387}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b3e3502b8a8bdb4290a3ffaeede05fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HealthBar
