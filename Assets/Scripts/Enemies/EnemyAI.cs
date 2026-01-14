@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -10,9 +10,9 @@ public class EnemyAI : MonoBehaviour
 
     [Header("Combat Stats")]
     [SerializeField] private float maxHealth = 5f;
-    [SerializeField] private int damageDealt = 10; 
+    [SerializeField] private int damageDealt = 10;
     [SerializeField] private float attackRange = 1.2f;
-    [SerializeField] private float attackCooldown = 3.0f; 
+    [SerializeField] private float attackCooldown = 3.0f;
 
     [Header("Patrol Settings")]
     [SerializeField] private Transform[] patrolPoints;
@@ -33,7 +33,6 @@ public class EnemyAI : MonoBehaviour
         animator = GetComponent<Animator>();
         currentHealth = maxHealth;
         waitCounter = waitTimeAtPoint;
-        
         lastAttackTime = -attackCooldown;
     }
 
@@ -45,10 +44,13 @@ public class EnemyAI : MonoBehaviour
         {
             float distanceToPlayer = Vector2.Distance(transform.position, targetPlayer.position);
 
+            // Actualizăm direcția chiar și când stă pe loc să atace, ca să privească spre Titi
+            FaceTarget(targetPlayer.position);
+
             if (distanceToPlayer <= attackRange)
             {
                 StopMovement();
-                
+
                 if (Time.time >= lastAttackTime + attackCooldown)
                 {
                     AttackPlayer();
@@ -67,16 +69,13 @@ public class EnemyAI : MonoBehaviour
 
     private void AttackPlayer()
     {
-        
         lastAttackTime = Time.time;
-
-        
         animator.SetTrigger("Attack");
 
-        
         if (targetPlayer != null)
         {
-            HealthBar titiHealth = targetPlayer.GetComponent<HealthBar>();
+            // Verifică dacă scriptul de sănătate al lui Titi se numește HealthBar sau PlayerHealth
+            var titiHealth = targetPlayer.GetComponent<HealthBar>();
             if (titiHealth != null)
             {
                 titiHealth.TakeDamage(damageDealt);
@@ -108,18 +107,26 @@ public class EnemyAI : MonoBehaviour
         }
     }
 
-    private void MoveTowards(Vector3 target)
+    // Această funcție doar rotește inamicul vizual (prin Animator) spre țintă
+    private void FaceTarget(Vector3 target)
     {
         Vector2 direction = (target - transform.position).normalized;
-        transform.position = Vector2.MoveTowards(transform.position, target, moveSpeed * Time.deltaTime);
+
+        // Trimitem valorile către Blend Tree
         animator.SetFloat("InputX", direction.x);
         animator.SetFloat("InputY", direction.y);
-        animator.SetBool("IsMoving", true);
+    }
+
+    private void MoveTowards(Vector3 target)
+    {
+        FaceTarget(target); // Ne asigurăm că privește unde merge
+        transform.position = Vector2.MoveTowards(transform.position, target, moveSpeed * Time.deltaTime);
+        animator.SetBool("IsMooving", true);
     }
 
     private void StopMovement()
     {
-        animator.SetBool("IsMoving", false);
+        animator.SetBool("IsMooving", false);
     }
 
     public void TakeDamage(float damageAmount)
@@ -133,8 +140,12 @@ public class EnemyAI : MonoBehaviour
     private void Die()
     {
         isDead = true;
-        animator.SetBool("IsDead", true);
+        animator.SetBool("isDead", true); // Atenție la litere mari/mici: isDead vs IsDead
         GetComponent<Collider2D>().enabled = false;
+
+        // Oprim orice mișcare la moarte
+        StopMovement();
+
         Destroy(gameObject, 2f);
     }
 

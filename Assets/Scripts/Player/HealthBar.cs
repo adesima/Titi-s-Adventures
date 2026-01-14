@@ -1,5 +1,5 @@
-using UnityEngine;
-using System.Collections; // Avem nevoie de asta pentru Corutine (pauze)
+﻿using UnityEngine;
+using System.Collections;
 
 public class HealthBar : MonoBehaviour
 {
@@ -10,7 +10,7 @@ public class HealthBar : MonoBehaviour
 
     private Animator anim;
     private Movement movementScript;
-    // 1. Ad?ug?m referin?e pentru fizic? ?i coliziuni
+
     private Rigidbody2D rb;
     private Collider2D col;
 
@@ -19,7 +19,7 @@ public class HealthBar : MonoBehaviour
         currentHealth = maxHealth;
         anim = GetComponent<Animator>();
         movementScript = GetComponent<Movement>();
-        // 2. Le g?sim automat la start
+
         rb = GetComponent<Rigidbody2D>();
         col = GetComponent<Collider2D>();
     }
@@ -31,56 +31,68 @@ public class HealthBar : MonoBehaviour
         currentHealth -= damage;
         Debug.Log("Titi a fost lovit! Viata ramasa: " + currentHealth);
 
-        if (anim != null) anim.SetTrigger("Hit");
+        // MODIFICARE: Am schimbat "Hit" in "Hurt" ca sa se potriveasca cu Animatorul tau
+        if (anim != null)
+        {
+            anim.SetTrigger("Hurt");
+        }
 
         if (currentHealth <= 0)
         {
             Die();
         }
     }
+    public void Heal(int amount)
+    {
+        if (isDead) return;
+
+        currentHealth += amount;
+
+        if (currentHealth > maxHealth)
+        {
+            currentHealth = maxHealth;
+        }
+
+        Debug.Log("Titi a mâncat o căpșună! Viata actuală: " + currentHealth);
+    }
 
     void Die()
     {
-        if (isDead) return; 
+        if (isDead) return;
         isDead = true;
         Debug.Log("Titi a murit!");
 
-       
         if (anim != null)
         {
             anim.SetBool("IsDead", true);
             anim.SetTrigger("Death");
         }
 
-        
         if (movementScript != null) movementScript.enabled = false;
 
-        
         if (rb != null)
         {
-            rb.linearVelocity = Vector2.zero; 
-            rb.simulated = false; 
-        }
-        if (col != null)
-        {
-            col.enabled = false; 
+            // Nota: In Unity 6 se foloseste linearVelocity, in versiuni mai vechi velocity
+            rb.linearVelocity = Vector2.zero;
+            rb.simulated = false;
         }
 
-        
+        if (col != null)
+        {
+            col.enabled = false;
+        }
+
         StartCoroutine(DistrugeDupaPauza(3f));
     }
 
-    
     private IEnumerator DistrugeDupaPauza(float secunde)
     {
-       
         yield return new WaitForSeconds(secunde);
-
-        
         Destroy(gameObject);
         Debug.Log("Titi a disparut de pe ecran.");
     }
 
+    // Aceasta ramane static pentru a fi accesata de UI (HealthBar.GetCurrentHealth())
     static public int GetCurrentHealth()
     {
         return currentHealth;
