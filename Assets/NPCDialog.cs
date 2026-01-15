@@ -1,81 +1,84 @@
-using System;
 using TMPro;
-using Unity.VisualScripting;
-
-
-//using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.UIElements;
 
 public class NPCDialog : MonoBehaviour
 {
-
-
-    static GameObject button;
-    static GameObject background;
-    static TextMeshProUGUI textdialog;
-    static TextMeshProUGUI textbuton;
-    static bool isTalking = false;
-    static int dialogIndex = 0;
-    static string[] dialog;
-    static int delay = 10;
-    static float currenTime = 0;
     
+    [Header("UI References")]
+    [SerializeField] private GameObject dialogButton;
+    [SerializeField] private GameObject dialogBackground;
 
-    void Start()
+    private static GameObject staticButton;
+    private static GameObject staticBackground;
+    private static TextMeshProUGUI textDialog;
+    private static bool isTalking = false;
+    private static int dialogIndex = 0;
+    private static string[] currentDialog;
+
+    void Awake()
     {
-        button = GameObject.Find("Button");
-        background = GameObject.Find("Background");
-        textdialog = background.GetComponentInChildren<TextMeshProUGUI>();
-        textbuton = button.GetComponentInChildren<TextMeshProUGUI>();
+        
+        staticButton = dialogButton;
+        staticBackground = dialogBackground;
 
-        button.SetActive(false);
-        background.SetActive(false);
+        if (staticBackground != null)
+        {
+            textDialog = staticBackground.GetComponentInChildren<TextMeshProUGUI>();
+            staticBackground.SetActive(false);
+        }
+
+        if (staticButton != null)
+        {
+            staticButton.SetActive(false);
+        }
     }
 
     public static void StartDialog(int dialogNumber)
     {
-        button.SetActive(true);
-        background.SetActive(true);
-        isTalking = true;
-        dialog = Dialog.dialogList[dialogNumber];
-        Time.timeScale = 0.02f;
-        UpdateDialogDisplay();
-    }
+        if (staticButton == null || staticBackground == null) return;
 
-    public static void StopDialog()
-    {
-        button.SetActive(false);
-        background.SetActive(false);
-        isTalking = false;
-        Time.timeScale = 1;
+        isTalking = true;
+        staticButton.SetActive(true);
+        staticBackground.SetActive(true);
+
+        
+        currentDialog = Dialog.dialogList[dialogNumber];
+        dialogIndex = 0;
+
+        Time.timeScale = 0f; 
+        UpdateDialogDisplay();
     }
 
     public static void UpdateDialogDisplay()
     {
-        if(dialog.Length <= dialogIndex)
+        if (currentDialog == null || dialogIndex >= currentDialog.Length)
         {
-            dialogIndex = 0;
             StopDialog();
             return;
         }
-        textdialog.SetText(dialog[dialogIndex]);
+        textDialog.SetText(currentDialog[dialogIndex]);
     }
 
-    private void FixedUpdate()
+    public static void StopDialog()
     {
-        if(Input.GetKeyDown(KeyCode.Escape))
-        {
-            StopDialog();
-        }
+        isTalking = false;
+        staticButton.SetActive(false);
+        staticBackground.SetActive(false);
+        Time.timeScale = 1f;
+    }
 
-        if ((isTalking) && (Input.GetMouseButton(0)))
+    void Update()
+    {
+        if (isTalking)
         {
-            dialogIndex++;
-            UpdateDialogDisplay();
+            if (Input.GetKeyDown(KeyCode.Escape)) StopDialog();
+
+            
+            if (Input.GetMouseButtonDown(0))
+            {
+                dialogIndex++;
+                UpdateDialogDisplay();
+            }
         }
     }
 }
-
-
-

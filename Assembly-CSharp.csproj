@@ -81,6 +81,7 @@
     <Compile Include="Assets\ThirdParty\Pixel Lands - Forest Desert\Scripts\CritterMover.cs" />
     <Compile Include="Assets\Scripts\Collectibles\WoodCollectible.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyAI_Alexx.cs" />
+    <Compile Include="Assets\Scripts\Veverita\NPCFacePlayer.cs" />
     <Compile Include="Assets\Scripts\Player\HealthBar.cs" />
     <Compile Include="Assets\Andreea\HealthManager.cs" />
     <Compile Include="Assets\Scripts\Environment\WaterManagement.cs" />

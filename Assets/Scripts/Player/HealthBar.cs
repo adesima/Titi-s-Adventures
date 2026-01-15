@@ -31,7 +31,6 @@ public class HealthBar : MonoBehaviour
         currentHealth -= damage;
         Debug.Log("Titi a fost lovit! Viata ramasa: " + currentHealth);
 
-        // MODIFICARE: Am schimbat "Hit" in "Hurt" ca sa se potriveasca cu Animatorul tau
         if (anim != null)
         {
             anim.SetTrigger("Hurt");
@@ -72,7 +71,7 @@ public class HealthBar : MonoBehaviour
 
         if (rb != null)
         {
-            // Nota: In Unity 6 se foloseste linearVelocity, in versiuni mai vechi velocity
+            
             rb.linearVelocity = Vector2.zero;
             rb.simulated = false;
         }
@@ -92,7 +91,7 @@ public class HealthBar : MonoBehaviour
         Debug.Log("Titi a disparut de pe ecran.");
     }
 
-    // Aceasta ramane static pentru a fi accesata de UI (HealthBar.GetCurrentHealth())
+    
     static public int GetCurrentHealth()
     {
         return currentHealth;

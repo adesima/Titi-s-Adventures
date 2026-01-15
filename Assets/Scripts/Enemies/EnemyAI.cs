@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class EnemyAI : MonoBehaviour
 {
@@ -9,7 +7,6 @@ public class EnemyAI : MonoBehaviour
     [SerializeField] private float waitTimeAtPoint = 2f;
 
     [Header("Combat Stats")]
-    [SerializeField] private float maxHealth = 5f;
     [SerializeField] private int damageDealt = 10;
     [SerializeField] private float attackRange = 1.2f;
     [SerializeField] private float attackCooldown = 3.0f;
@@ -22,39 +19,28 @@ public class EnemyAI : MonoBehaviour
     private bool isWaiting;
     private bool isAggro;
     private Transform targetPlayer;
-    private float currentHealth;
     private float lastAttackTime;
-    private bool isDead;
 
     private Animator animator;
 
     private void Awake()
     {
         animator = GetComponent<Animator>();
-        currentHealth = maxHealth;
         waitCounter = waitTimeAtPoint;
         lastAttackTime = -attackCooldown;
     }
 
     private void Update()
     {
-        if (isDead) return;
-
         if (isAggro && targetPlayer != null)
         {
             float distanceToPlayer = Vector2.Distance(transform.position, targetPlayer.position);
-
-            // Actualizăm direcția chiar și când stă pe loc să atace, ca să privească spre Titi
             FaceTarget(targetPlayer.position);
 
             if (distanceToPlayer <= attackRange)
             {
                 StopMovement();
-
-                if (Time.time >= lastAttackTime + attackCooldown)
-                {
-                    AttackPlayer();
-                }
+                if (Time.time >= lastAttackTime + attackCooldown) AttackPlayer();
             }
             else
             {
@@ -74,12 +60,8 @@ public class EnemyAI : MonoBehaviour
 
         if (targetPlayer != null)
         {
-            // Verifică dacă scriptul de sănătate al lui Titi se numește HealthBar sau PlayerHealth
             var titiHealth = targetPlayer.GetComponent<HealthBar>();
-            if (titiHealth != null)
-            {
-                titiHealth.TakeDamage(damageDealt);
-            }
+            if (titiHealth != null) titiHealth.TakeDamage(damageDealt);
         }
     }
 
@@ -101,27 +83,23 @@ public class EnemyAI : MonoBehaviour
             {
                 isWaiting = false;
                 waitCounter = waitTimeAtPoint;
-                currentPointIndex++;
-                if (currentPointIndex >= patrolPoints.Length) currentPointIndex = 0;
+                currentPointIndex = (currentPointIndex + 1) % patrolPoints.Length;
             }
         }
     }
 
-    // Această funcție doar rotește inamicul vizual (prin Animator) spre țintă
     private void FaceTarget(Vector3 target)
     {
         Vector2 direction = (target - transform.position).normalized;
-
-        // Trimitem valorile către Blend Tree
         animator.SetFloat("InputX", direction.x);
         animator.SetFloat("InputY", direction.y);
     }
 
     private void MoveTowards(Vector3 target)
     {
-        FaceTarget(target); // Ne asigurăm că privește unde merge
+        FaceTarget(target);
         transform.position = Vector2.MoveTowards(transform.position, target, moveSpeed * Time.deltaTime);
-        animator.SetBool("IsMooving", true);
+        animator.SetBool("IsMooving", true); 
     }
 
     private void StopMovement()
@@ -129,29 +107,9 @@ public class EnemyAI : MonoBehaviour
         animator.SetBool("IsMooving", false);
     }
 
-    public void TakeDamage(float damageAmount)
-    {
-        if (isDead) return;
-        currentHealth -= damageAmount;
-        animator.SetTrigger("Hit");
-        if (currentHealth <= 0) Die();
-    }
-
-    private void Die()
-    {
-        isDead = true;
-        animator.SetBool("isDead", true); // Atenție la litere mari/mici: isDead vs IsDead
-        GetComponent<Collider2D>().enabled = false;
-
-        // Oprim orice mișcare la moarte
-        StopMovement();
-
-        Destroy(gameObject, 2f);
-    }
-
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player") && !isAggro)
+        if (other.CompareTag("Player"))
         {
             isAggro = true;
             targetPlayer = other.transform;

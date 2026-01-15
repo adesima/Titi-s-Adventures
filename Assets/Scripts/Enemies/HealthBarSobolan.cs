@@ -2,17 +2,17 @@ using UnityEngine;
 
 public class RatHealth : MonoBehaviour
 {
-    [Header("Setari Viata Sobolan")]
-    public int maxHealth = 60; // Am pus 60 ca sa moara din 3 lovituri de 20
+    [Header("Setari Viata")]
+    [SerializeField] private int maxHealth = 60;
     private int currentHealth;
     private bool isDead = false;
 
-    private Animator anim;
+    private Animator animator;
 
-    void Start()
+    void Awake()
     {
+        animator = GetComponent<Animator>();
         currentHealth = maxHealth;
-        anim = GetComponent<Animator>();
     }
 
     public void TakeDamage(int damage)
@@ -20,33 +20,28 @@ public class RatHealth : MonoBehaviour
         if (isDead) return;
 
         currentHealth -= damage;
-        Debug.Log("Sobolanul a fost lovit! Viata: " + currentHealth);
+        Debug.Log(gameObject.name + " lovit! Viata ramasa: " + currentHealth);
 
-        if (anim != null) anim.SetTrigger("Hit");
+        if (animator != null) animator.SetTrigger("Hit");
 
         if (currentHealth <= 0) Die();
     }
 
-    void Die()
+    private void Die()
     {
-        if (isDead) return;
         isDead = true;
 
-        if (anim != null)
-        {
-            anim.SetBool("IsDead", true);
-            anim.SetTrigger("Death");
-        }
+        
+        if (animator != null) animator.SetBool("isDead", true);
 
-        // Dezactivam tot ce tine de sobolan
+        
         if (GetComponent<Collider2D>()) GetComponent<Collider2D>().enabled = false;
 
-        // Dezactivam scriptul de AI/Miscare (Oricum s-ar numi el la tine)
-        var aiScript = GetComponent<EnemyAI>();
+        
+        EnemyAI aiScript = GetComponent<EnemyAI>();
         if (aiScript != null) aiScript.enabled = false;
 
-        if (GetComponent<Rigidbody2D>()) GetComponent<Rigidbody2D>().simulated = false;
-
-        Destroy(gameObject, 3f);
+        Debug.Log(gameObject.name + " a murit.");
+        Destroy(gameObject, 2f);
     }
 }
