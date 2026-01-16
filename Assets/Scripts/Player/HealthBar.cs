@@ -5,7 +5,7 @@ public class HealthBar : MonoBehaviour
 {
     [Header("Setari Viata")]
     public int maxHealth = 100;
-    static private int currentHealth;
+    [SerializeField] static private int currentHealth;
     private bool isDead = false;
 
     private Animator anim;
