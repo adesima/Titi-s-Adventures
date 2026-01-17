@@ -3,6 +3,9 @@ using System.Collections;
 
 public class HealthBar : MonoBehaviour
 {
+    [Header("UI")]
+    [SerializeField] private DeathMenu deathMenu;
+
     [Header("Setari Viata")]
     public int maxHealth = 100;
     [SerializeField] static private int currentHealth;
@@ -22,6 +25,12 @@ public class HealthBar : MonoBehaviour
 
         rb = GetComponent<Rigidbody2D>();
         col = GetComponent<Collider2D>();
+
+        if (deathMenu == null)
+        {
+            Debug.LogError("DeathMenu nu este setat în HealthBar!");
+            deathMenu = FindObjectOfType<DeathMenu>();
+        }
     }
 
     public void TakeDamage(int damage)
@@ -87,8 +96,19 @@ public class HealthBar : MonoBehaviour
     private IEnumerator DistrugeDupaPauza(float secunde)
     {
         yield return new WaitForSeconds(secunde);
-        Destroy(gameObject);
+        // Destroy(gameObject);
+        gameObject.SetActive(false);
         Debug.Log("Titi a disparut de pe ecran.");
+
+        // Afisez meniul de Death
+        if (deathMenu != null)
+        {
+            deathMenu.TriggerDeath();
+        }
+        else
+        {
+            Debug.LogWarning("Nu am găsit DeathMenu! Asigură-te că există în scenă.");
+        }
     }
 
     

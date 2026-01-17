@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.UI; // Necesar pentru UI (Text, Mesaje)
 
@@ -12,8 +13,11 @@ public class DamController : MonoBehaviour
     public GameObject mesajLipsaLemne; // Un text UI sau Panel care zice "Nu ai lemne!"
 
     [Header("Legaturi Externe")]
-    // Aici vom lega scriptul lacului ca sa pornim apa
     public WaterManagement scriptLac; 
+
+    [Header("Final Nivel")]
+    [SerializeField] private GameObject levelCompleteUI; 
+    [SerializeField] private float delayFinal = 4f;
 
     private bool esteLangaBaraj = false;
     private bool esteReparat = false;
@@ -26,6 +30,9 @@ public class DamController : MonoBehaviour
         
         if(mesajLipsaLemne != null)
             mesajLipsaLemne.SetActive(false);
+
+        if(levelCompleteUI != null)
+            levelCompleteUI.SetActive(false);
     }
 
     void Update()
@@ -71,6 +78,25 @@ public class DamController : MonoBehaviour
         }
         
         Debug.Log("Baraj reparat! Apa a pornit.");
+
+        StartCoroutine(FinalizeazaNivelul());
+    }
+
+    IEnumerator FinalizeazaNivelul()
+    {
+        Debug.Log("Așteptăm să se umple lacul...");
+        
+        // Așteptăm X secunde (timp în care jucătorul vede apa crescând)
+        yield return new WaitForSeconds(delayFinal);
+
+        Debug.Log("Nivel Complet!");
+        
+        // Afișăm meniul
+        if (levelCompleteUI != null)
+        {
+            levelCompleteUI.SetActive(true);
+            Time.timeScale = 0f; // Oprim jocul
+        }
     }
 
     void AfiseazaMesajEroare()
