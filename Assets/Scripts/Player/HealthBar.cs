@@ -22,14 +22,19 @@ public class HealthBar : MonoBehaviour
         currentHealth = maxHealth;
         anim = GetComponent<Animator>();
         movementScript = GetComponent<Movement>();
-
         rb = GetComponent<Rigidbody2D>();
         col = GetComponent<Collider2D>();
 
+        
         if (deathMenu == null)
         {
-            Debug.LogError("DeathMenu nu este setat în HealthBar!");
             deathMenu = FindObjectOfType<DeathMenu>();
+        }
+
+        
+        if (deathMenu == null)
+        {
+            Debug.LogError("EROARE CRITICĂ: Nu am găsit niciun obiect DeathMenu în scenă! Asigură-te că UI-ul de Game Over există.");
         }
     }
 
