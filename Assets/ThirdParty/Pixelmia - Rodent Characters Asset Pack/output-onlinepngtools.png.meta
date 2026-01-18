@@ -185,12 +185,12 @@ TextureImporter:
       name: output-onlinepngtools_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 113
-        width: 25
-        height: 36
+        x: 6
+        y: 114
+        width: 23
+        height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -207,12 +207,12 @@ TextureImporter:
       name: output-onlinepngtools_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 113
-        width: 25
-        height: 36
+        x: 42
+        y: 114
+        width: 23
+        height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -229,12 +229,12 @@ TextureImporter:
       name: output-onlinepngtools_2
       rect:
         serializedVersion: 2
-        x: 77
-        y: 113
-        width: 25
-        height: 35
+        x: 78
+        y: 114
+        width: 23
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -251,12 +251,12 @@ TextureImporter:
       name: output-onlinepngtools_3
       rect:
         serializedVersion: 2
-        x: 112
-        y: 113
-        width: 27
-        height: 34
+        x: 113
+        y: 114
+        width: 25
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -273,12 +273,12 @@ TextureImporter:
       name: output-onlinepngtools_4
       rect:
         serializedVersion: 2
-        x: 147
-        y: 113
-        width: 29
-        height: 34
+        x: 148
+        y: 114
+        width: 27
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -295,12 +295,12 @@ TextureImporter:
       name: output-onlinepngtools_5
       rect:
         serializedVersion: 2
-        x: 185
-        y: 113
-        width: 25
-        height: 35
+        x: 186
+        y: 114
+        width: 23
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -317,12 +317,12 @@ TextureImporter:
       name: output-onlinepngtools_6
       rect:
         serializedVersion: 2
-        x: 5
-        y: 75
-        width: 25
-        height: 36
+        x: 6
+        y: 76
+        width: 23
+        height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -339,12 +339,12 @@ TextureImporter:
       name: output-onlinepngtools_7
       rect:
         serializedVersion: 2
-        x: 41
-        y: 75
-        width: 25
-        height: 36
+        x: 42
+        y: 76
+        width: 23
+        height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -361,12 +361,12 @@ TextureImporter:
       name: output-onlinepngtools_8
       rect:
         serializedVersion: 2
-        x: 77
-        y: 75
-        width: 25
-        height: 35
+        x: 78
+        y: 76
+        width: 23
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -383,12 +383,12 @@ TextureImporter:
       name: output-onlinepngtools_9
       rect:
         serializedVersion: 2
-        x: 112
-        y: 75
-        width: 27
-        height: 34
+        x: 113
+        y: 76
+        width: 25
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -405,12 +405,12 @@ TextureImporter:
       name: output-onlinepngtools_10
       rect:
         serializedVersion: 2
-        x: 147
-        y: 75
-        width: 29
-        height: 34
+        x: 148
+        y: 76
+        width: 27
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -427,12 +427,12 @@ TextureImporter:
       name: output-onlinepngtools_11
       rect:
         serializedVersion: 2
-        x: 185
-        y: 75
-        width: 25
-        height: 35
+        x: 186
+        y: 76
+        width: 23
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -449,12 +449,12 @@ TextureImporter:
       name: output-onlinepngtools_12
       rect:
         serializedVersion: 2
-        x: 1
-        y: 37
-        width: 29
-        height: 36
+        x: 2
+        y: 38
+        width: 27
+        height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -471,12 +471,12 @@ TextureImporter:
       name: output-onlinepngtools_13
       rect:
         serializedVersion: 2
-        x: 37
-        y: 37
-        width: 29
-        height: 36
+        x: 38
+        y: 38
+        width: 27
+        height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -493,12 +493,12 @@ TextureImporter:
       name: output-onlinepngtools_14
       rect:
         serializedVersion: 2
-        x: 73
-        y: 37
-        width: 29
-        height: 35
+        x: 74
+        y: 38
+        width: 27
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -515,12 +515,12 @@ TextureImporter:
       name: output-onlinepngtools_15
       rect:
         serializedVersion: 2
-        x: 109
-        y: 37
-        width: 29
-        height: 34
+        x: 110
+        y: 38
+        width: 27
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -537,12 +537,12 @@ TextureImporter:
       name: output-onlinepngtools_16
       rect:
         serializedVersion: 2
-        x: 145
-        y: 37
-        width: 30
-        height: 34
+        x: 146
+        y: 38
+        width: 28
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -559,12 +559,12 @@ TextureImporter:
       name: output-onlinepngtools_17
       rect:
         serializedVersion: 2
-        x: 181
-        y: 37
-        width: 29
-        height: 35
+        x: 182
+        y: 38
+        width: 27
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -581,12 +581,12 @@ TextureImporter:
       name: output-onlinepngtools_18
       rect:
         serializedVersion: 2
-        x: 6
+        x: 7
         y: 0
-        width: 29
-        height: 35
+        width: 27
+        height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -603,12 +603,12 @@ TextureImporter:
       name: output-onlinepngtools_19
       rect:
         serializedVersion: 2
-        x: 42
+        x: 43
         y: 0
-        width: 29
-        height: 35
+        width: 27
+        height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -625,12 +625,12 @@ TextureImporter:
       name: output-onlinepngtools_20
       rect:
         serializedVersion: 2
-        x: 78
+        x: 79
         y: 0
-        width: 29
-        height: 34
+        width: 27
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -647,12 +647,12 @@ TextureImporter:
       name: output-onlinepngtools_21
       rect:
         serializedVersion: 2
-        x: 114
+        x: 115
         y: 0
-        width: 29
-        height: 33
+        width: 27
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -669,12 +669,12 @@ TextureImporter:
       name: output-onlinepngtools_22
       rect:
         serializedVersion: 2
-        x: 149
+        x: 150
         y: 0
-        width: 30
-        height: 33
+        width: 28
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -691,12 +691,12 @@ TextureImporter:
       name: output-onlinepngtools_23
       rect:
         serializedVersion: 2
-        x: 186
+        x: 187
         y: 0
-        width: 29
-        height: 34
+        width: 27
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -713,7 +713,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a6c8ae199d27cf24990086b7114647c4
     internalID: 0
     vertices: []
     indices: 
@@ -721,7 +721,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       output-onlinepngtools_0: 8085268007778768734
       output-onlinepngtools_1: 5803401481538434042

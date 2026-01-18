@@ -7,6 +7,8 @@ public class Movement : MonoBehaviour
     private Transform _transform;
     private InputSystem_ActionsCopy _inputActions;
     private Animator _animator;
+    PlayerInventory player;
+    NPCDialog npcDialog;
 
     private Vector2 lastoMoveDirection;
     private bool facingLeft = true;
@@ -28,11 +30,12 @@ public class Movement : MonoBehaviour
         _inputActions.Enable();
         _animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
-
         // --- AUDIO: Gasim automat sursa daca ai uitat sa o pui ---
         if (movementAudioSource == null)
             movementAudioSource = GetComponent<AudioSource>();
         // ---------------------------------------------------------
+        player =    GetComponent<PlayerInventory>();
+        npcDialog = GameObject.Find("Dialog").GetComponent<NPCDialog>();
     }
 
     // Update is called once per frame
@@ -82,15 +85,16 @@ public class Movement : MonoBehaviour
                 Debug.Log("Interacted with " + hitCollider.name);
                 if(hitCollider.name.Contains("CastorApa"))
                 {
-                    NPCDialog.StartDialog(0);
+                    npcDialog.StartDialog(NPCDialog.DialogListNames.CastorApa, player.woodCount);
+
                 }
                 else if (hitCollider.name.Contains("PersonajRau"))
                 {
-                    NPCDialog.StartDialog(1);
+                    npcDialog.StartDialog(NPCDialog.DialogListNames.PersonajRau, player.woodCount);
                 }
-                else if (hitCollider.name.Contains("PersonajBun"))
+                else if (hitCollider.name.Contains("Veverita"))
                 {
-                    NPCDialog.StartDialog(2);
+                    npcDialog.StartDialog(NPCDialog.DialogListNames.Veverita, player.woodCount);
                 }
             }
         }

@@ -134,4 +134,9 @@ public class DamController : MonoBehaviour
             esteLangaBaraj = false;
         }
     }
+
+    public bool getReparat()
+    {
+        return esteReparat;
+    }
 }
