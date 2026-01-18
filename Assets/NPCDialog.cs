@@ -96,7 +96,7 @@ public class NPCDialog : MonoBehaviour
             {
                 if (GameObject.FindGameObjectsWithTag("Enemy").Length != 0)
                 {
-                    currentDialog = new string[] { "Cred ca ar trebuii sa mai fie sobolani prin padure..." };
+                    currentDialog = new string[] { "Cred ca ar trebui sa mai fie sobolani prin padure..." };
                 }
                 else
                 {
@@ -175,7 +175,7 @@ public class NPCDialog : MonoBehaviour
     public static string[][] CastorApa2 = { 
         //pt castor apa
     //dupa interact from Titi to CastorApa
-       new string[]{ $"Titi! Am nevoie din nou de ajutorul tau! S-a stricat barajul asta! Poti sa ma ajuti sa adun niste lemne din padure? Am nevoie de 10 " +
+       new string[]{ $"Titi! Am nevoie din nou de ajutorul tau! Barajul s-a stricat! Poti sa ma ajuti sa adun niste lemne din padure? Am nevoie de 10 " +
            $"bucati de lemne" },
 
          //dupa ce Titi aduna lemnele
@@ -188,13 +188,13 @@ public class NPCDialog : MonoBehaviour
     public static string[][] Veverita =
     {
         //dupa interact from Titi to PersonajBun
-        new string[]{"Buna, Titi! Am auzit ca tu vei strange lemnele pentru baraj. Lemnele le vei gasii in padure,dar...",
-        //Titi povesteste aventurile
-        "Trebuie sa ai grija in padure pentru ca sunt tot felul de sobolani!" , "Pentru a putea lua lemnele pentru baraj v-a trebuii sa omori toti sobolanii!",
-        "Dupa ce ai terminat de omorat toti sobolanii, te rog sa vi sa iti daruiesc un cadou!" },
+        new string[]{"Buna, Titi! Am auzit ca tu vei strange lemnele pentru baraj. Lemnele le vei gasi in padure,dar...",
+        
+        "Trebuie sa ai grija in padure, pentru ca sunt tot felul de sobolani!" , "Pentru a putea lua lemnele pentru baraj, va trebui sa omori toti sobolanii!",
+        "Dupa ce ai terminat de omorat toti sobolanii, te rog sa vii ca sa iti ofer un cadou!" },
         //PersonajBun ofera un cadou lui Titi
         new string[]{
-        "Buna Titi! Te-ai intors!", "Ai reusit sa omori toti sobolanii?", "Woow! Eroul nostru! Acum vom avea in sfarsit linisite in padure!",
+        "Buna, Titi! Te-ai intors!", "Ai reusit sa omori toti sobolanii?", "Woow! Eroul nostru! Acum vom avea, in sfarsit, linisite in padure!",
         "Pentru curajul si spiritul tau aventuros, vreau sa iti ofer acest cadou special. Sper sa iti aduca noroc in calatoriile tale viitoare!" }
         //the end
     };
