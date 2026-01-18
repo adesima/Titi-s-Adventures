@@ -13,6 +13,13 @@ public class Movement : MonoBehaviour
 
     private SpriteRenderer spriteRenderer;
     private float xPosLastFrame;
+
+    // --- AUDIO: Variabile noi ---
+    [Header("Audio Setari")]
+    public AudioSource movementAudioSource; // Trage componenta AudioSource aici
+    public AudioClip pasiSound;             // Trage fisierul de sunet (pasi) aici
+    // ----------------------------
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -21,6 +28,11 @@ public class Movement : MonoBehaviour
         _inputActions.Enable();
         _animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+
+        // --- AUDIO: Gasim automat sursa daca ai uitat sa o pui ---
+        if (movementAudioSource == null)
+            movementAudioSource = GetComponent<AudioSource>();
+        // ---------------------------------------------------------
     }
 
     // Update is called once per frame
@@ -101,11 +113,17 @@ public class Movement : MonoBehaviour
                 _animator.SetBool("isSprinting", true);
                 _transform.position += movement;
                 _animator.SetBool("isMoving", false);
+
+                // --- AUDIO: Redam sunetul de pasi daca nu este deja redat ---
+                movementAudioSource.pitch = 1.5f; // Pasii sunt mai rapizi la sprint
             }
             else
             {
                 _animator.SetBool("isSprinting", false);
                 _transform.position += movement * 0.5f;
+
+                // --- AUDIO: Redam sunetul de pasi daca nu este deja redat ---
+                movementAudioSource.pitch = 1.0f; // Pasii normali
             }
             if (isAttacking)
             {
@@ -118,12 +136,18 @@ public class Movement : MonoBehaviour
                 _animator.SetBool("isAttacking", false);
             }
 
+            // --- AUDIO: Redam sunetul de pasi daca nu este deja redat ---
+            GestioneazaSunetPasi(true);
+
         }
 
         else
         {
             _animator.SetBool("isMoving", false);
             _animator.SetBool("isSprinting", false);
+
+            // --- AUDIO: Oprim sunetul de pasi daca ne-am oprit din miscare ---
+            GestioneazaSunetPasi(false);
         }
 
         if (isAttacking)
@@ -136,8 +160,6 @@ public class Movement : MonoBehaviour
         {
             _animator.SetBool("isAttacking", false);
         }
-
-        
 
         FlipCharacter();
     }
@@ -154,6 +176,34 @@ public class Movement : MonoBehaviour
         }
         xPosLastFrame = transform.position.x;
     }
+
+    // --- AUDIO: Functie noua pentru gestionarea sunetului ---
+    void GestioneazaSunetPasi(bool seMisca)
+    {
+        // Masura de siguranta sa nu dea eroare daca lipsesc componentele
+        if(movementAudioSource == null || pasiSound == null) return;
+
+        if (seMisca)
+        {
+            // Daca trebuie sa se auda, dar nu canta deja...
+            if (!movementAudioSource.isPlaying)
+            {
+                movementAudioSource.clip = pasiSound;
+                movementAudioSource.loop = true; // Foarte important: sunetul se repeta singur
+                movementAudioSource.Play();
+            }
+        }
+        else
+        {
+            // Daca s-a oprit din mers, dar sunetul inca se aude...
+            if (movementAudioSource.isPlaying && movementAudioSource.clip == pasiSound)
+            {
+                movementAudioSource.Stop();
+            }
+        }
+    }
+    // --------------------------------------------------------
     
 
 }
+

@@ -59,6 +59,7 @@
     <Compile Include="Assets\Scripts\UI\MenuAudio.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyBase.cs" />
     <Compile Include="Assets\Scripts\Collectibles\Collectable.cs" />
+    <Compile Include="Assets\Scripts\Environment\EnvironmentAudio.cs" />
     <Compile Include="Assets\Scripts\Environment\DamController.cs" />
     <Compile Include="Assets\Andreea\UIManager.cs" />
     <Compile Include="Assets\Dialog.cs" />
